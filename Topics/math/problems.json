@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T15:01:51.735Z",
+  "updatedAt": "2026-08-12T15:03:30.380Z",
   "problems": [
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "0066-plus-one/0066-plus-one.java",
+          "sha": "3d0c173f6353d94061f767af391076d0e4fc3e50",
+          "lastSyncedAt": "2026-08-12T15:03:30.380Z"
+        }
+      ]
+    },
     {
       "frontendId": "204",
       "title": "Count Primes",
