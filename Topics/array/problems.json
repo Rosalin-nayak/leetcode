@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T15:01:27.768Z",
+  "updatedAt": "2026-08-12T15:01:40.012Z",
   "problems": [
     {
       "frontendId": "88",
@@ -43,6 +43,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "693d41dc600dde1121d3fb51aa286beed6b5a6a4",
           "lastSyncedAt": "2026-08-12T15:01:27.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1232",
+      "title": "Check If It Is a Straight Line",
+      "slug": "check-if-it-is-a-straight-line",
+      "problemName": "1232-check-if-it-is-a-straight-line",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+      "folderPath": "1232-check-if-it-is-a-straight-line/",
+      "readmePath": "1232-check-if-it-is-a-straight-line/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1232-check-if-it-is-a-straight-line.java",
+          "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
+          "sha": "8677289d6ab9602d443f9087a4e837de7a0d47b6",
+          "lastSyncedAt": "2026-08-12T15:01:40.012Z"
         }
       ]
     }
