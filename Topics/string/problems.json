@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T15:00:33.943Z",
+  "updatedAt": "2026-08-12T15:00:41.534Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "0003-longest-substring-without-repeating-characters/",
+      "readmePath": "0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0003-longest-substring-without-repeating-characters.java",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
+          "sha": "e034bef86f6a8e4ea6c9accb3c45820a28a53bbd",
+          "lastSyncedAt": "2026-08-12T15:00:41.534Z"
+        }
+      ]
+    },
     {
       "frontendId": "8",
       "title": "String to Integer (atoi)",
