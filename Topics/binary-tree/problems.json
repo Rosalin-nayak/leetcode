@@ -4,6 +4,27 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-08-12T14:59:27.901Z",
-  "problems": []
+  "updatedAt": "2026-08-12T15:00:58.895Z",
+  "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0100-same-tree.java",
+          "path": "0100-same-tree/0100-same-tree.java",
+          "sha": "cfc2ae2ccc634e124557413f39b3b9f6287b84c9",
+          "lastSyncedAt": "2026-08-12T15:00:58.895Z"
+        }
+      ]
+    }
+  ]
 }
