@@ -4,8 +4,28 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-12T15:00:17.454Z",
+  "updatedAt": "2026-08-12T15:00:33.943Z",
   "problems": [
+    {
+      "frontendId": "8",
+      "title": "String to Integer (atoi)",
+      "slug": "string-to-integer-atoi",
+      "problemName": "0008-string-to-integer-atoi",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "folderPath": "0008-string-to-integer-atoi/",
+      "readmePath": "0008-string-to-integer-atoi/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0008-string-to-integer-atoi.java",
+          "path": "0008-string-to-integer-atoi/0008-string-to-integer-atoi.java",
+          "sha": "05cdf266889cf40a33e4ae9972375e465861bd5d",
+          "lastSyncedAt": "2026-08-12T15:00:33.943Z"
+        }
+      ]
+    },
     {
       "frontendId": "20",
       "title": "Valid Parentheses",
