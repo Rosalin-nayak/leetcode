@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-08-12T15:01:17.473Z",
+  "updatedAt": "2026-08-12T15:03:01.518Z",
   "problems": [
     {
       "frontendId": "88",
@@ -23,6 +23,26 @@
           "path": "0088-merge-sorted-array/0088-merge-sorted-array.java",
           "sha": "f040df44055d81100a66776ff3ac4157e1d6331a",
           "lastSyncedAt": "2026-08-12T15:01:17.473Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0349-intersection-of-two-arrays.java",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.java",
+          "sha": "50a8faaf015a25c56ef2db43310a87d888c100a2",
+          "lastSyncedAt": "2026-08-12T15:03:01.518Z"
         }
       ]
     }
