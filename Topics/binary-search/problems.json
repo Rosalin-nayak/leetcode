@@ -4,8 +4,28 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-08-12T15:03:01.518Z",
+  "updatedAt": "2026-08-12T15:03:38.719Z",
   "problems": [
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "17476526add6c443c888045a71c5920d72f95c31",
+          "lastSyncedAt": "2026-08-12T15:03:38.719Z"
+        }
+      ]
+    },
     {
       "frontendId": "349",
       "title": "Intersection of Two Arrays",
