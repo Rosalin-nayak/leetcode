@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sieve-theory",
+    "name": "Sieve Theory"
+  },
+  "updatedAt": "2026-08-12T15:01:51.735Z",
+  "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0204-count-primes.java",
+          "path": "0204-count-primes/0204-count-primes.java",
+          "sha": "8e5e13e9273b2719aa2cb384730bb60309b8425b",
+          "lastSyncedAt": "2026-08-12T15:01:51.735Z"
+        }
+      ]
+    }
+  ]
+}
