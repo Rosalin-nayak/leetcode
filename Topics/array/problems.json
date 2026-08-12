@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T15:03:30.380Z",
+  "updatedAt": "2026-08-12T15:03:38.719Z",
   "problems": [
     {
       "frontendId": "26",
@@ -123,6 +123,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "693d41dc600dde1121d3fb51aa286beed6b5a6a4",
           "lastSyncedAt": "2026-08-12T15:01:27.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "problemName": "0162-find-peak-element",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-peak-element/",
+      "folderPath": "0162-find-peak-element/",
+      "readmePath": "0162-find-peak-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0162-find-peak-element.java",
+          "path": "0162-find-peak-element/0162-find-peak-element.java",
+          "sha": "17476526add6c443c888045a71c5920d72f95c31",
+          "lastSyncedAt": "2026-08-12T15:03:38.719Z"
         }
       ]
     },
