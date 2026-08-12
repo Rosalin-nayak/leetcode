@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-12T15:01:40.012Z",
+  "updatedAt": "2026-08-12T15:01:51.735Z",
   "problems": [
     {
       "frontendId": "88",
@@ -43,6 +43,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "693d41dc600dde1121d3fb51aa286beed6b5a6a4",
           "lastSyncedAt": "2026-08-12T15:01:27.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0204-count-primes.java",
+          "path": "0204-count-primes/0204-count-primes.java",
+          "sha": "8e5e13e9273b2719aa2cb384730bb60309b8425b",
+          "lastSyncedAt": "2026-08-12T15:01:51.735Z"
         }
       ]
     },
