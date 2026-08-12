@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T15:00:41.534Z",
+  "updatedAt": "2026-08-12T15:03:01.518Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,6 +43,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
           "sha": "a55ccfd6176eba70df28c468a51491fedd496d1f",
           "lastSyncedAt": "2026-08-12T14:59:57.694Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "0349-intersection-of-two-arrays/",
+      "readmePath": "0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0349-intersection-of-two-arrays.java",
+          "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.java",
+          "sha": "50a8faaf015a25c56ef2db43310a87d888c100a2",
+          "lastSyncedAt": "2026-08-12T15:03:01.518Z"
         }
       ]
     }
