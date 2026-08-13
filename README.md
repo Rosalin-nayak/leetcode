@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 16 | 5 | 0 |
+| 22 | 17 | 5 | 0 |
 
 ## Activity
 
@@ -27,22 +27,22 @@
 | 2026-07-27 | 1 |
 | 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
-| 2026-08-13 | 1 |
+| 2026-08-13 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 48% |
-| Two Pointers | 8 | 38% |
-| String | 6 | 29% |
-| Hash Table | 4 | 19% |
+| Array | 10 | 45% |
+| Two Pointers | 9 | 41% |
+| String | 6 | 27% |
+| Hash Table | 5 | 23% |
+| Math | 4 | 18% |
 | Binary Tree | 3 | 14% |
 | Linked List | 3 | 14% |
-| Math | 3 | 14% |
 | Tree | 3 | 14% |
-| Binary Search | 2 | 10% |
-| Depth-First Search | 2 | 10% |
+| Binary Search | 2 | 9% |
+| Depth-First Search | 2 | 9% |
 
 ## Topics
 
@@ -61,14 +61,14 @@
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 3 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
@@ -81,7 +81,7 @@
 | [String](Topics/string/) | 6 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
