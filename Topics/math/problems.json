@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-12T15:03:30.380Z",
+  "updatedAt": "2026-08-13T09:38:29.527Z",
   "problems": [
     {
       "frontendId": "66",
@@ -23,6 +23,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "3d0c173f6353d94061f767af391076d0e4fc3e50",
           "lastSyncedAt": "2026-08-12T15:03:30.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0202-happy-number.java",
+          "path": "0202-happy-number/0202-happy-number.java",
+          "sha": "3f7aa7c9aba87032ecac49bf5a29010a5a68d82a",
+          "lastSyncedAt": "2026-08-13T09:38:29.527Z"
         }
       ]
     },
