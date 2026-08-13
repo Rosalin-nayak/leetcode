@@ -94,5 +94,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
