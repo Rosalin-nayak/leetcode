@@ -113,6 +113,7 @@
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rosalin-nayak/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Rosalin-nayak/leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -136,4 +137,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Rosalin-nayak/leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
