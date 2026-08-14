@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-14T15:16:12.607Z",
+  "updatedAt": "2026-08-14T15:40:45.428Z",
   "problems": [
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0342-power-of-four.java",
+          "path": "0342-power-of-four/0342-power-of-four.java",
+          "sha": "91beb3164a8c9a9e616b37660d020ca8b3e218aa",
+          "lastSyncedAt": "2026-08-14T15:40:45.428Z"
+        }
+      ]
+    },
     {
       "frontendId": "1342",
       "title": "Number of Steps to Reduce a Number to Zero",
