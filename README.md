@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 18 | 6 | 0 |
+| 25 | 19 | 6 | 0 |
 
 ## Activity
 
@@ -28,20 +28,20 @@
 | 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
-| 2026-08-14 | 2 |
+| 2026-08-14 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 42% |
-| Two Pointers | 9 | 38% |
-| String | 6 | 25% |
-| Hash Table | 5 | 21% |
-| Math | 5 | 21% |
-| Linked List | 4 | 17% |
-| Binary Tree | 3 | 13% |
-| Tree | 3 | 13% |
+| Array | 10 | 40% |
+| Two Pointers | 9 | 36% |
+| Math | 6 | 24% |
+| String | 6 | 24% |
+| Hash Table | 5 | 20% |
+| Linked List | 4 | 16% |
+| Binary Tree | 3 | 12% |
+| Tree | 3 | 12% |
 | Binary Search | 2 | 8% |
 | Depth-First Search | 2 | 8% |
 
@@ -69,12 +69,12 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
