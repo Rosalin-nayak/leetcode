@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 24 | 6 | 0 |
+| 31 | 25 | 6 | 0 |
 
 ## Activity
 
@@ -28,22 +28,22 @@
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
-| 2026-08-15 | 4 |
+| 2026-08-15 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 11 | 37% |
-| Array | 10 | 33% |
-| Two Pointers | 9 | 30% |
+| Math | 12 | 39% |
+| Array | 10 | 32% |
+| Two Pointers | 9 | 29% |
 | String | 7 | 23% |
-| Hash Table | 5 | 17% |
+| Hash Table | 5 | 16% |
 | Linked List | 4 | 13% |
 | Binary Tree | 3 | 10% |
 | Recursion | 3 | 10% |
 | Tree | 3 | 10% |
-| Binary Search | 2 | 7% |
+| Binary Search | 2 | 6% |
 
 ## Topics
 
@@ -69,7 +69,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
