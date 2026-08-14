@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-14T19:05:45.733Z",
+  "updatedAt": "2026-08-14T19:11:01.961Z",
   "problems": [
     {
       "frontendId": "66",
@@ -143,6 +143,26 @@
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
           "sha": "8677289d6ab9602d443f9087a4e837de7a0d47b6",
           "lastSyncedAt": "2026-08-12T15:01:40.012Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1281",
+      "title": "Subtract the Product and Sum of Digits of an Integer",
+      "slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "problemName": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "folderPath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/",
+      "readmePath": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
+          "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
+          "sha": "256d4a831a09b3921f9158d1c6c77a7735745897",
+          "lastSyncedAt": "2026-08-14T19:11:01.961Z"
         }
       ]
     },
