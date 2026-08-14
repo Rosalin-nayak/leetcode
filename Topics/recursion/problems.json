@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-14T15:36:01.478Z",
+  "updatedAt": "2026-08-14T15:40:45.428Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,6 +43,26 @@
           "path": "0326-power-of-three/0326-power-of-three.java",
           "sha": "c6b7a79027d4be0a817fa4386d675164f4e896fe",
           "lastSyncedAt": "2026-08-14T15:36:01.478Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0342-power-of-four.java",
+          "path": "0342-power-of-four/0342-power-of-four.java",
+          "sha": "91beb3164a8c9a9e616b37660d020ca8b3e218aa",
+          "lastSyncedAt": "2026-08-14T15:40:45.428Z"
         }
       ]
     }
