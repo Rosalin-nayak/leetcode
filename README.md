@@ -117,6 +117,7 @@
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rosalin-nayak/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2413-smallest-even-multiple](https://github.com/Rosalin-nayak/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Rosalin-nayak/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
