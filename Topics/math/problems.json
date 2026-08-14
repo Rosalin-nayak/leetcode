@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-14T19:11:01.961Z",
+  "updatedAt": "2026-08-14T19:18:18.475Z",
   "problems": [
     {
       "frontendId": "66",
@@ -183,6 +183,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "sha": "b8057fe1b03fcdb118886567951ebb29c91d6835",
           "lastSyncedAt": "2026-08-14T15:16:12.607Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "problemName": "1523-count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+      "folderPath": "1523-count-odd-numbers-in-an-interval-range/",
+      "readmePath": "1523-count-odd-numbers-in-an-interval-range/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1523-count-odd-numbers-in-an-interval-range.java",
+          "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.java",
+          "sha": "5b0100ac16a1856fda22a73e8ff1b57df8f6d8bd",
+          "lastSyncedAt": "2026-08-14T19:18:18.475Z"
         }
       ]
     }
