@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
+| [0326-power-of-three](https://github.com/Rosalin-nayak/leetcode/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -122,6 +123,7 @@
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Rosalin-nayak/leetcode/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
