@@ -5,13 +5,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 17 | 5 | 0 |
+| 23 | 17 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 13 |
+| 2 days | 9 days | 14 |
 
 | Date | Problems |
 | --- | ---: |
@@ -28,19 +28,20 @@
 | 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
+| 2026-08-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 45% |
-| Two Pointers | 9 | 41% |
-| String | 6 | 27% |
-| Hash Table | 5 | 23% |
-| Math | 4 | 18% |
-| Binary Tree | 3 | 14% |
-| Linked List | 3 | 14% |
-| Tree | 3 | 14% |
+| Array | 10 | 43% |
+| Two Pointers | 9 | 39% |
+| String | 6 | 26% |
+| Hash Table | 5 | 22% |
+| Linked List | 4 | 17% |
+| Math | 4 | 17% |
+| Binary Tree | 3 | 13% |
+| Tree | 3 | 13% |
 | Binary Search | 2 | 9% |
 | Depth-First Search | 2 | 9% |
 
@@ -67,7 +68,7 @@
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Number Theory](Topics/number-theory/) | 1 |
