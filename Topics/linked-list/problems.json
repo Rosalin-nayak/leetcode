@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-13T09:06:52.466Z",
+  "updatedAt": "2026-08-14T06:04:33.780Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,6 +23,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "315999454a0baf88a21cede0ff5dd48606dc4c6c",
           "lastSyncedAt": "2026-08-12T14:59:46.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "problemName": "0092-reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "folderPath": "0092-reverse-linked-list-ii/",
+      "readmePath": "0092-reverse-linked-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0092-reverse-linked-list-ii.java",
+          "path": "0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.java",
+          "sha": "69d2946e489b9d438240817c24d6d4f20087a941",
+          "lastSyncedAt": "2026-08-14T06:04:33.780Z"
         }
       ]
     },
