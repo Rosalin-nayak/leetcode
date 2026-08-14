@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-08-12T14:59:46.222Z",
+  "updatedAt": "2026-08-14T15:36:01.478Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,6 +23,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "315999454a0baf88a21cede0ff5dd48606dc4c6c",
           "lastSyncedAt": "2026-08-12T14:59:46.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0326-power-of-three.java",
+          "path": "0326-power-of-three/0326-power-of-three.java",
+          "sha": "c6b7a79027d4be0a817fa4386d675164f4e896fe",
+          "lastSyncedAt": "2026-08-14T15:36:01.478Z"
         }
       ]
     }
