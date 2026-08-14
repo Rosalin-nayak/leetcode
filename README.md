@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 17 | 6 | 0 |
+| 24 | 18 | 6 | 0 |
 
 ## Activity
 
@@ -28,22 +28,22 @@
 | 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
-| 2026-08-14 | 1 |
+| 2026-08-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 10 | 43% |
-| Two Pointers | 9 | 39% |
-| String | 6 | 26% |
-| Hash Table | 5 | 22% |
+| Array | 10 | 42% |
+| Two Pointers | 9 | 38% |
+| String | 6 | 25% |
+| Hash Table | 5 | 21% |
+| Math | 5 | 21% |
 | Linked List | 4 | 17% |
-| Math | 4 | 17% |
 | Binary Tree | 3 | 13% |
 | Tree | 3 | 13% |
-| Binary Search | 2 | 9% |
-| Depth-First Search | 2 | 9% |
+| Binary Search | 2 | 8% |
+| Depth-First Search | 2 | 8% |
 
 ## Topics
 
@@ -53,7 +53,7 @@
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
@@ -69,7 +69,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 4 |
+| [Math](Topics/math/) | 5 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
