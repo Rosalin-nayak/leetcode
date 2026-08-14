@@ -93,11 +93,13 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -115,4 +117,9 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
