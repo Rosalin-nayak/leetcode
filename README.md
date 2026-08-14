@@ -116,6 +116,7 @@
 | [0326-power-of-three](https://github.com/Rosalin-nayak/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rosalin-nayak/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
