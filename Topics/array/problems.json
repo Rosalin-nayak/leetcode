@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-15T13:17:23.832Z",
+  "updatedAt": "2026-08-15T14:00:23.226Z",
   "problems": [
     {
       "frontendId": "26",
@@ -223,6 +223,26 @@
           "path": "1232-check-if-it-is-a-straight-line/1232-check-if-it-is-a-straight-line.java",
           "sha": "8677289d6ab9602d443f9087a4e837de7a0d47b6",
           "lastSyncedAt": "2026-08-12T15:01:40.012Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "4f0156b2345ce5f80ea9a3aed3aa10a7842f80fb",
+          "lastSyncedAt": "2026-08-15T14:00:23.226Z"
         }
       ]
     }
