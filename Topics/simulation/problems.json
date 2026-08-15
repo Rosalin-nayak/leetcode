@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-08-14T19:05:45.733Z",
+  "updatedAt": "2026-08-15T14:00:23.226Z",
   "problems": [
     {
       "frontendId": "412",
@@ -23,6 +23,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "be9629b7b33914223a6de3fbed7c026f07538b87",
           "lastSyncedAt": "2026-08-14T19:05:45.733Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "4f0156b2345ce5f80ea9a3aed3aa10a7842f80fb",
+          "lastSyncedAt": "2026-08-15T14:00:23.226Z"
         }
       ]
     }
