@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/ugly-number">263. Ugly Number</a></h2><h3>Easy</h3><hr><p>An <strong>ugly number</strong> is a <em>positive</em> integer which does not have a prime factor other than 2, 3, and 5.</p>
+<h2><a href="https://leetcode.com/problems/ugly-number/">263. Ugly Number</a></h2><h3>Easy</h3><hr><p>An <strong>ugly number</strong> is a <em>positive</em> integer which does not have a prime factor other than 2, 3, and 5.</p>
 
 <p>Given an integer <code>n</code>, return <code>true</code> <em>if</em> <code>n</code> <em>is an <strong>ugly number</strong></em>.</p>
 
