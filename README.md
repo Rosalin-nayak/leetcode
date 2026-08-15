@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 25 | 6 | 0 |
+| 32 | 26 | 6 | 0 |
 
 ## Activity
 
@@ -28,30 +28,30 @@
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
-| 2026-08-15 | 5 |
+| 2026-08-15 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 12 | 39% |
-| Array | 10 | 32% |
-| Two Pointers | 9 | 29% |
-| String | 7 | 23% |
+| Math | 12 | 38% |
+| Array | 11 | 34% |
+| Two Pointers | 9 | 28% |
+| String | 7 | 22% |
 | Hash Table | 5 | 16% |
 | Linked List | 4 | 13% |
-| Binary Tree | 3 | 10% |
-| Recursion | 3 | 10% |
-| Tree | 3 | 10% |
-| Binary Search | 2 | 6% |
+| Binary Search | 3 | 9% |
+| Binary Tree | 3 | 9% |
+| Recursion | 3 | 9% |
+| Tree | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 10 |
+| [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
