@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 28 | 6 | 0 |
+| 35 | 29 | 6 | 0 |
 
 ## Activity
 
@@ -28,19 +28,19 @@
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
-| 2026-08-15 | 8 |
+| 2026-08-15 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 14 | 41% |
-| Array | 11 | 32% |
+| Math | 14 | 40% |
+| Array | 12 | 34% |
 | Two Pointers | 9 | 26% |
-| String | 7 | 21% |
-| Hash Table | 5 | 15% |
-| Linked List | 4 | 12% |
-| Recursion | 4 | 12% |
+| String | 7 | 20% |
+| Hash Table | 5 | 14% |
+| Linked List | 4 | 11% |
+| Recursion | 4 | 11% |
 | Binary Search | 3 | 9% |
 | Binary Tree | 3 | 9% |
 | Tree | 3 | 9% |
@@ -49,7 +49,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -77,7 +77,7 @@
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
