@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 26 | 6 | 0 |
+| 33 | 27 | 6 | 0 |
 
 ## Activity
 
@@ -28,21 +28,21 @@
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
-| 2026-08-15 | 6 |
+| 2026-08-15 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 12 | 38% |
-| Array | 11 | 34% |
-| Two Pointers | 9 | 28% |
-| String | 7 | 22% |
-| Hash Table | 5 | 16% |
-| Linked List | 4 | 13% |
+| Math | 13 | 39% |
+| Array | 11 | 33% |
+| Two Pointers | 9 | 27% |
+| String | 7 | 21% |
+| Hash Table | 5 | 15% |
+| Linked List | 4 | 12% |
+| Recursion | 4 | 12% |
 | Binary Search | 3 | 9% |
 | Binary Tree | 3 | 9% |
-| Recursion | 3 | 9% |
 | Tree | 3 | 9% |
 
 ## Topics
@@ -60,7 +60,7 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
@@ -69,12 +69,13 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 0 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
