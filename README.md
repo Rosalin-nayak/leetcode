@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 27 | 6 | 0 |
+| 34 | 28 | 6 | 0 |
 
 ## Activity
 
@@ -28,15 +28,15 @@
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
-| 2026-08-15 | 7 |
+| 2026-08-15 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 13 | 39% |
-| Array | 11 | 33% |
-| Two Pointers | 9 | 27% |
+| Math | 14 | 41% |
+| Array | 11 | 32% |
+| Two Pointers | 9 | 26% |
 | String | 7 | 21% |
 | Hash Table | 5 | 15% |
 | Linked List | 4 | 12% |
@@ -69,7 +69,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 13 |
+| [Math](Topics/math/) | 14 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
