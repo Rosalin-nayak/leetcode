@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-15T13:47:26.034Z",
+  "updatedAt": "2026-08-15T13:54:09.961Z",
   "problems": [
     {
       "frontendId": "66",
@@ -63,6 +63,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "8e5e13e9273b2719aa2cb384730bb60309b8425b",
           "lastSyncedAt": "2026-08-12T15:01:51.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "0263-ugly-number/",
+      "readmePath": "0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0263-ugly-number.java",
+          "path": "0263-ugly-number/0263-ugly-number.java",
+          "sha": "d5dc3aa5b43b20c50761950c30e2cf25e0ccc6ef",
+          "lastSyncedAt": "2026-08-15T13:54:09.961Z"
         }
       ]
     },
