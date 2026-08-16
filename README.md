@@ -118,6 +118,7 @@
 | [0263-ugly-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Rosalin-nayak/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rosalin-nayak/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Rosalin-nayak/leetcode/tree/master/2235-add-two-integers) |
