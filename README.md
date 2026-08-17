@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rosalin-nayak/leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -167,6 +168,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
