@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 30 | 7 | 0 |
+| 38 | 30 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 16 |
+| 5 days | 9 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-15 | 3 |
 | 2026-07-16 | 1 |
 | 2026-07-17 | 3 |
 | 2026-07-18 | 2 |
@@ -29,17 +28,18 @@
 | 2026-08-14 | 4 |
 | 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
+| 2026-08-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Math | 15 | 41% |
-| Array | 13 | 35% |
+| Math | 15 | 39% |
+| Array | 14 | 37% |
 | Two Pointers | 9 | 24% |
-| String | 7 | 19% |
-| Hash Table | 5 | 14% |
-| Binary Search | 4 | 11% |
+| String | 7 | 18% |
+| Binary Search | 5 | 13% |
+| Hash Table | 5 | 13% |
 | Linked List | 4 | 11% |
 | Recursion | 4 | 11% |
 | Binary Tree | 3 | 8% |
@@ -49,9 +49,9 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
