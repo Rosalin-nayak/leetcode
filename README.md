@@ -113,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rosalin-nayak/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0263-ugly-number) |
@@ -144,15 +145,18 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Rosalin-nayak/leetcode/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
