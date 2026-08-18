@@ -168,6 +168,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -192,4 +193,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1095-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
