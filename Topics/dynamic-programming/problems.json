@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-18T06:47:03.368Z",
+  "updatedAt": "2026-08-18T12:04:26.649Z",
   "problems": [
     {
       "frontendId": "118",
@@ -23,6 +23,26 @@
           "path": "0118-pascals-triangle/0118-pascals-triangle.java",
           "sha": "b113b1884d4ba5d62cf4237b0a890e3617265b2f",
           "lastSyncedAt": "2026-08-18T06:47:03.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "problemName": "0119-pascals-triangle-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "folderPath": "0119-pascals-triangle-ii/",
+      "readmePath": "0119-pascals-triangle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0119-pascals-triangle-ii.java",
+          "path": "0119-pascals-triangle-ii/0119-pascals-triangle-ii.java",
+          "sha": "2ab06e3f5a400cdbb6d5f090b4552ed72bdc4c24",
+          "lastSyncedAt": "2026-08-18T12:04:26.649Z"
         }
       ]
     },
