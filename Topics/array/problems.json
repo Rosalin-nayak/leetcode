@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T05:43:50.344Z",
+  "updatedAt": "2026-08-18T06:47:03.368Z",
   "problems": [
     {
       "frontendId": "26",
@@ -143,6 +143,26 @@
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
           "sha": "9c04dec1279205429a8eb9a1a27ddda93db46b97",
           "lastSyncedAt": "2026-08-12T15:03:14.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "118",
+      "title": "Pascal's Triangle",
+      "slug": "pascals-triangle",
+      "problemName": "0118-pascals-triangle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+      "folderPath": "0118-pascals-triangle/",
+      "readmePath": "0118-pascals-triangle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0118-pascals-triangle.java",
+          "path": "0118-pascals-triangle/0118-pascals-triangle.java",
+          "sha": "b113b1884d4ba5d62cf4237b0a890e3617265b2f",
+          "lastSyncedAt": "2026-08-18T06:47:03.368Z"
         }
       ]
     },
