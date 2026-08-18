@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 32 | 10 | 0 |
+| 43 | 33 | 10 | 0 |
 
 ## Activity
 
@@ -28,28 +28,28 @@
 | 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
 | 2026-08-17 | 2 |
-| 2026-08-18 | 3 |
+| 2026-08-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 43% |
-| Math | 16 | 38% |
+| Array | 19 | 44% |
+| Math | 16 | 37% |
 | Two Pointers | 9 | 21% |
-| String | 7 | 17% |
+| String | 7 | 16% |
 | Binary Search | 6 | 14% |
 | Hash Table | 5 | 12% |
-| Linked List | 4 | 10% |
-| Recursion | 4 | 10% |
+| Dynamic Programming | 4 | 9% |
+| Linked List | 4 | 9% |
+| Recursion | 4 | 9% |
 | Binary Tree | 3 | 7% |
-| Dynamic Programming | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -60,7 +60,7 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
