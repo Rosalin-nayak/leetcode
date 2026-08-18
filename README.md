@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 30 | 9 | 0 |
+| 40 | 31 | 9 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 9 days | 17 |
+| 6 days | 9 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-16 | 1 |
 | 2026-07-17 | 3 |
 | 2026-07-18 | 2 |
 | 2026-07-19 | 1 |
@@ -29,12 +28,13 @@
 | 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
 | 2026-08-17 | 2 |
+| 2026-08-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 38% |
+| Array | 16 | 40% |
 | Math | 15 | 38% |
 | Two Pointers | 9 | 23% |
 | String | 7 | 18% |
@@ -43,13 +43,13 @@
 | Linked List | 4 | 10% |
 | Recursion | 4 | 10% |
 | Binary Tree | 3 | 8% |
-| Tree | 3 | 8% |
+| Simulation | 3 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
+| [Array](Topics/array/) | 16 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -70,14 +70,14 @@
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 15 |
-| [Matrix](Topics/matrix/) | 0 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
