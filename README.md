@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 31 | 9 | 0 |
+| 41 | 31 | 10 | 0 |
 
 ## Activity
 
@@ -28,28 +28,28 @@
 | 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
 | 2026-08-17 | 2 |
-| 2026-08-18 | 1 |
+| 2026-08-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 40% |
-| Math | 15 | 38% |
-| Two Pointers | 9 | 23% |
-| String | 7 | 18% |
+| Array | 17 | 41% |
+| Math | 16 | 39% |
+| Two Pointers | 9 | 22% |
+| String | 7 | 17% |
 | Binary Search | 6 | 15% |
-| Hash Table | 5 | 13% |
+| Hash Table | 5 | 12% |
 | Linked List | 4 | 10% |
 | Recursion | 4 | 10% |
-| Binary Tree | 3 | 8% |
-| Simulation | 3 | 8% |
+| Binary Tree | 3 | 7% |
+| Simulation | 3 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 16 |
+| [Array](Topics/array/) | 17 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -69,8 +69,8 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 15 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Math](Topics/math/) | 16 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
