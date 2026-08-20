@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 33 | 10 | 0 |
+| 44 | 34 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 9 days | 18 |
+| 1 days | 9 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-17 | 3 |
 | 2026-07-18 | 2 |
 | 2026-07-19 | 1 |
 | 2026-07-20 | 1 |
@@ -29,27 +28,28 @@
 | 2026-08-16 | 2 |
 | 2026-08-17 | 2 |
 | 2026-08-18 | 4 |
+| 2026-08-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 19 | 44% |
-| Math | 16 | 37% |
-| Two Pointers | 9 | 21% |
+| Array | 20 | 45% |
+| Math | 16 | 36% |
+| Two Pointers | 9 | 20% |
 | String | 7 | 16% |
 | Binary Search | 6 | 14% |
-| Hash Table | 5 | 12% |
+| Hash Table | 5 | 11% |
 | Dynamic Programming | 4 | 9% |
 | Linked List | 4 | 9% |
 | Recursion | 4 | 9% |
-| Binary Tree | 3 | 7% |
+| Simulation | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 20 |
+| [Array](Topics/array/) | 21 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -77,7 +77,7 @@
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
-| [Simulation](Topics/simulation/) | 4 |
+| [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 2 |
