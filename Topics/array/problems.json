@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-20T09:28:48.191Z",
+  "updatedAt": "2026-08-20T10:49:00.689Z",
   "problems": [
     {
       "frontendId": "26",
@@ -423,6 +423,26 @@
           "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.java",
           "sha": "396d7d4935d1ee0daef4d5c63b2527d82af8df6e",
           "lastSyncedAt": "2026-08-20T09:28:48.191Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3936",
+      "title": "Minimum Swaps to Move Zeros to End",
+      "slug": "minimum-swaps-to-move-zeros-to-end",
+      "problemName": "3936-minimum-swaps-to-move-zeros-to-end",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/",
+      "folderPath": "3936-minimum-swaps-to-move-zeros-to-end/",
+      "readmePath": "3936-minimum-swaps-to-move-zeros-to-end/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3936-minimum-swaps-to-move-zeros-to-end.java",
+          "path": "3936-minimum-swaps-to-move-zeros-to-end/3936-minimum-swaps-to-move-zeros-to-end.java",
+          "sha": "5e9b4c7fefb8ef38743d8beb4c3dd71393e69c2b",
+          "lastSyncedAt": "2026-08-20T10:49:00.689Z"
         }
       ]
     }
