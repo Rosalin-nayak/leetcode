@@ -105,6 +105,7 @@
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@
 | [0136-single-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1095-find-in-mountain-array) |
