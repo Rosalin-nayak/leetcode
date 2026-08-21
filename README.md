@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 35 | 10 | 0 |
+| 46 | 36 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 19 |
+| 2 days | 9 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-18 | 2 |
 | 2026-07-19 | 1 |
 | 2026-07-20 | 1 |
 | 2026-07-21 | 1 |
@@ -29,15 +28,16 @@
 | 2026-08-17 | 2 |
 | 2026-08-18 | 4 |
 | 2026-08-20 | 2 |
+| 2026-08-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 47% |
-| Math | 16 | 36% |
+| Array | 22 | 48% |
+| Math | 17 | 37% |
 | Two Pointers | 10 | 22% |
-| String | 7 | 16% |
+| String | 7 | 15% |
 | Binary Search | 6 | 13% |
 | Hash Table | 5 | 11% |
 | Dynamic Programming | 4 | 9% |
@@ -49,7 +49,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -69,7 +69,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 16 |
+| [Math](Topics/math/) | 17 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
