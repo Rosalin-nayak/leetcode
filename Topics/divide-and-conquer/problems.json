@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-12T15:03:14.003Z",
+  "updatedAt": "2026-08-21T15:42:21.906Z",
   "problems": [
     {
       "frontendId": "105",
@@ -23,6 +23,26 @@
           "path": "0105-construct-binary-tree-from-preorder-and-inorder-traversal/0105-construct-binary-tree-from-preorder-and-inorder-traversal.java",
           "sha": "9c04dec1279205429a8eb9a1a27ddda93db46b97",
           "lastSyncedAt": "2026-08-12T15:03:14.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0169-majority-element.java",
+          "path": "0169-majority-element/0169-majority-element.java",
+          "sha": "acb08c0ec2dbae53a7208dd86208dba2f520f3a2",
+          "lastSyncedAt": "2026-08-21T15:42:21.906Z"
         }
       ]
     }
