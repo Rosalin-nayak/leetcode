@@ -121,6 +121,7 @@
 | [0326-power-of-three](https://github.com/Rosalin-nayak/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rosalin-nayak/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rosalin-nayak/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/Rosalin-nayak/leetcode/tree/master/2235-add-two-integers) |
@@ -183,6 +184,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Rosalin-nayak/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rosalin-nayak/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
