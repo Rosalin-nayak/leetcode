@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T05:43:50.344Z",
+  "updatedAt": "2026-08-21T13:57:56.653Z",
   "problems": [
     {
       "frontendId": "48",
@@ -243,6 +243,26 @@
           "path": "1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.java",
           "sha": "256d4a831a09b3921f9158d1c6c77a7735745897",
           "lastSyncedAt": "2026-08-14T19:11:01.961Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "slug": "find-numbers-with-even-number-of-digits",
+      "problemName": "1295-find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+      "folderPath": "1295-find-numbers-with-even-number-of-digits/",
+      "readmePath": "1295-find-numbers-with-even-number-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1295-find-numbers-with-even-number-of-digits.java",
+          "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
+          "sha": "fbf479e8def93c1e688c3a51d56b6581c448e1e4",
+          "lastSyncedAt": "2026-08-21T13:57:56.653Z"
         }
       ]
     },
