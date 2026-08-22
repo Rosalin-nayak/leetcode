@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T05:25:00.659Z",
+  "updatedAt": "2026-08-22T09:03:44.907Z",
   "problems": [
     {
       "frontendId": "26",
@@ -303,6 +303,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "8e5e13e9273b2719aa2cb384730bb60309b8425b",
           "lastSyncedAt": "2026-08-12T15:01:51.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0215-kth-largest-element-in-an-array.java",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
+          "sha": "26a85b49d8f702912176321d54c0b408552cc2dc",
+          "lastSyncedAt": "2026-08-22T09:03:44.907Z"
         }
       ]
     },
