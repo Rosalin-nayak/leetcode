@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-21T13:57:56.653Z",
+  "updatedAt": "2026-08-22T03:14:15.586Z",
   "problems": [
     {
       "frontendId": "48",
@@ -343,6 +343,26 @@
           "path": "2469-convert-the-temperature/2469-convert-the-temperature.java",
           "sha": "f7848044269ec0035b8f9f694466e9e6b9ca04a6",
           "lastSyncedAt": "2026-08-14T19:34:23.229Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3622",
+      "title": "Check Divisibility by Digit Sum and Product",
+      "slug": "check-divisibility-by-digit-sum-and-product",
+      "problemName": "3622-check-divisibility-by-digit-sum-and-product",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+      "folderPath": "3622-check-divisibility-by-digit-sum-and-product/",
+      "readmePath": "3622-check-divisibility-by-digit-sum-and-product/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3622-check-divisibility-by-digit-sum-and-product.java",
+          "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
+          "sha": "af003f8bdd54fcb2e89aefccdae2454a19637f7d",
+          "lastSyncedAt": "2026-08-22T03:14:15.586Z"
         }
       ]
     }
