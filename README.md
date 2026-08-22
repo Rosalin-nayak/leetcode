@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 48 | 38 | 10 | 0 |
+| 49 | 38 | 11 | 0 |
 
 ## Activity
 
@@ -28,28 +28,28 @@
 | 2026-08-18 | 4 |
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
-| 2026-08-22 | 1 |
+| 2026-08-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 50% |
+| Array | 25 | 51% |
 | Math | 17 | 35% |
-| Two Pointers | 11 | 23% |
-| Binary Search | 7 | 15% |
-| Hash Table | 7 | 15% |
-| String | 7 | 15% |
+| Two Pointers | 11 | 22% |
+| Binary Search | 7 | 14% |
+| Hash Table | 7 | 14% |
+| String | 7 | 14% |
+| Sorting | 5 | 10% |
 | Dynamic Programming | 4 | 8% |
 | Linked List | 4 | 8% |
 | Recursion | 4 | 8% |
-| Simulation | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 26 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -61,7 +61,7 @@
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
@@ -69,6 +69,7 @@
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
 | [Math](Topics/math/) | 18 |
@@ -77,11 +78,12 @@
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
