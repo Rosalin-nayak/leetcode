@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 37 | 10 | 0 |
+| 48 | 38 | 10 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 20 |
+| 3 days | 9 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-19 | 1 |
 | 2026-07-20 | 1 |
 | 2026-07-21 | 1 |
 | 2026-07-27 | 1 |
@@ -29,29 +28,30 @@
 | 2026-08-18 | 4 |
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
+| 2026-08-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 49% |
-| Math | 17 | 36% |
-| Two Pointers | 10 | 21% |
+| Array | 24 | 50% |
+| Math | 17 | 35% |
+| Two Pointers | 11 | 23% |
+| Binary Search | 7 | 15% |
+| Hash Table | 7 | 15% |
 | String | 7 | 15% |
-| Binary Search | 6 | 13% |
-| Hash Table | 6 | 13% |
-| Dynamic Programming | 4 | 9% |
-| Linked List | 4 | 9% |
-| Recursion | 4 | 9% |
-| Simulation | 4 | 9% |
+| Dynamic Programming | 4 | 8% |
+| Linked List | 4 | 8% |
+| Recursion | 4 | 8% |
+| Simulation | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 6 |
+| [Binary Search](Topics/binary-search/) | 7 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -67,11 +67,11 @@
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 17 |
+| [Math](Topics/math/) | 18 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -81,13 +81,13 @@
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 3 |
+| [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 10 |
+| [Two Pointers](Topics/two-pointers/) | 11 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
