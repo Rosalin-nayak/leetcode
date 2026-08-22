@@ -132,6 +132,7 @@
 | [2235-add-two-integers](https://github.com/Rosalin-nayak/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Rosalin-nayak/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rosalin-nayak/leetcode/tree/master/2469-convert-the-temperature) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rosalin-nayak/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
