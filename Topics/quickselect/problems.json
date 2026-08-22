@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "quickselect",
+    "name": "Quickselect"
+  },
+  "updatedAt": "2026-08-22T09:03:44.907Z",
+  "problems": [
+    {
+      "frontendId": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "problemName": "0215-kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "folderPath": "0215-kth-largest-element-in-an-array/",
+      "readmePath": "0215-kth-largest-element-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0215-kth-largest-element-in-an-array.java",
+          "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
+          "sha": "26a85b49d8f702912176321d54c0b408552cc2dc",
+          "lastSyncedAt": "2026-08-22T09:03:44.907Z"
+        }
+      ]
+    }
+  ]
+}
