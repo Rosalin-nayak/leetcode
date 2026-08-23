@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 49 | 38 | 11 | 0 |
+| 50 | 39 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 9 days | 21 |
+| 4 days | 9 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-20 | 1 |
 | 2026-07-21 | 1 |
 | 2026-07-27 | 1 |
 | 2026-08-09 | 1 |
@@ -29,19 +28,20 @@
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
 | 2026-08-22 | 2 |
+| 2026-08-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 51% |
-| Math | 17 | 35% |
+| Array | 25 | 50% |
+| Math | 18 | 36% |
 | Two Pointers | 11 | 22% |
 | Binary Search | 7 | 14% |
 | Hash Table | 7 | 14% |
 | String | 7 | 14% |
+| Dynamic Programming | 5 | 10% |
 | Sorting | 5 | 10% |
-| Dynamic Programming | 4 | 8% |
 | Linked List | 4 | 8% |
 | Recursion | 4 | 8% |
 
@@ -62,7 +62,7 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
@@ -72,9 +72,9 @@
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 18 |
+| [Math](Topics/math/) | 19 |
 | [Matrix](Topics/matrix/) | 3 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
