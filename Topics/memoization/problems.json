@@ -4,8 +4,28 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-08-15T13:47:26.034Z",
+  "updatedAt": "2026-08-23T01:59:39.637Z",
   "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0070-climbing-stairs.java",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.java",
+          "sha": "4c794e252f01fc6d7b701c86890da2c29b58e348",
+          "lastSyncedAt": "2026-08-23T01:59:39.637Z"
+        }
+      ]
+    },
     {
       "frontendId": "509",
       "title": "Fibonacci Number",
