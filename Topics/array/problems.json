@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-22T09:03:44.907Z",
+  "updatedAt": "2026-08-23T15:08:52.739Z",
   "problems": [
     {
       "frontendId": "26",
@@ -423,6 +423,26 @@
           "path": "0867-transpose-matrix/0867-transpose-matrix.java",
           "sha": "0d5b6f5e7eb911e5e2b9b0869d90019de0dbc9f3",
           "lastSyncedAt": "2026-08-18T05:15:48.869Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "0912-sort-an-array/",
+      "readmePath": "0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "5363daa37fec22561589f9d8a29bf6a4585319ca",
+          "lastSyncedAt": "2026-08-23T15:08:52.739Z"
         }
       ]
     },
