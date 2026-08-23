@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-08-22T09:03:44.907Z",
+  "updatedAt": "2026-08-23T15:08:52.739Z",
   "problems": [
     {
       "frontendId": "105",
@@ -63,6 +63,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "26a85b49d8f702912176321d54c0b408552cc2dc",
           "lastSyncedAt": "2026-08-22T09:03:44.907Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "0912-sort-an-array/",
+      "readmePath": "0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "5363daa37fec22561589f9d8a29bf6a4585319ca",
+          "lastSyncedAt": "2026-08-23T15:08:52.739Z"
         }
       ]
     }
