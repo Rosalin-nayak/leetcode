@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-23T01:59:39.637Z",
+  "updatedAt": "2026-08-24T13:45:38.879Z",
   "problems": [
     {
       "frontendId": "48",
@@ -123,6 +123,26 @@
           "path": "0263-ugly-number/0263-ugly-number.java",
           "sha": "d5dc3aa5b43b20c50761950c30e2cf25e0ccc6ef",
           "lastSyncedAt": "2026-08-15T13:54:09.961Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "0268-missing-number/0268-missing-number.java",
+          "sha": "0f07b3d42eaf4fec5c1e1933508a49c5a16833bd",
+          "lastSyncedAt": "2026-08-24T13:45:38.879Z"
         }
       ]
     },
