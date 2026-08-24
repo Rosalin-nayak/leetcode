@@ -4,8 +4,28 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-08-14T15:40:45.428Z",
+  "updatedAt": "2026-08-24T13:45:38.879Z",
   "problems": [
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "0268-missing-number/0268-missing-number.java",
+          "sha": "0f07b3d42eaf4fec5c1e1933508a49c5a16833bd",
+          "lastSyncedAt": "2026-08-24T13:45:38.879Z"
+        }
+      ]
+    },
     {
       "frontendId": "342",
       "title": "Power of Four",
