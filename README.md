@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 40 | 11 | 0 |
+| 52 | 40 | 12 | 0 |
 
 ## Activity
 
@@ -28,32 +28,32 @@
 | 2026-08-21 | 2 |
 | 2026-08-22 | 2 |
 | 2026-08-23 | 1 |
-| 2026-08-24 | 1 |
+| 2026-08-24 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 51% |
+| Array | 27 | 52% |
 | Math | 19 | 37% |
-| Two Pointers | 11 | 22% |
-| Binary Search | 8 | 16% |
-| Hash Table | 8 | 16% |
-| String | 7 | 14% |
+| Two Pointers | 12 | 23% |
+| Binary Search | 9 | 17% |
+| Hash Table | 8 | 15% |
+| String | 7 | 13% |
 | Sorting | 6 | 12% |
 | Dynamic Programming | 5 | 10% |
+| Bit Manipulation | 4 | 8% |
 | Linked List | 4 | 8% |
-| Recursion | 4 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
+| [Array](Topics/array/) | 29 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 8 |
+| [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -64,7 +64,7 @@
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 8 |
@@ -76,6 +76,7 @@
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
+| [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
@@ -89,7 +90,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
