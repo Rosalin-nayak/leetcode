@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-22T05:25:00.659Z",
+  "updatedAt": "2026-08-24T14:11:21.457Z",
   "problems": [
     {
       "frontendId": "26",
@@ -123,6 +123,26 @@
           "path": "0202-happy-number/0202-happy-number.java",
           "sha": "3f7aa7c9aba87032ecac49bf5a29010a5a68d82a",
           "lastSyncedAt": "2026-08-13T09:38:29.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "0287-find-the-duplicate-number/",
+      "readmePath": "0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0287-find-the-duplicate-number.java",
+          "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
+          "sha": "a7054fb893a9fe9ef3231d8cd1cf31c774bbe147",
+          "lastSyncedAt": "2026-08-24T14:11:21.457Z"
         }
       ]
     },
