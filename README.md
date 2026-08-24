@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 39 | 11 | 0 |
+| 51 | 40 | 11 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 22 |
+| 5 days | 9 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-21 | 1 |
 | 2026-07-27 | 1 |
 | 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
@@ -29,19 +28,20 @@
 | 2026-08-21 | 2 |
 | 2026-08-22 | 2 |
 | 2026-08-23 | 1 |
+| 2026-08-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 50% |
-| Math | 18 | 36% |
+| Array | 26 | 51% |
+| Math | 19 | 37% |
 | Two Pointers | 11 | 22% |
-| Binary Search | 7 | 14% |
-| Hash Table | 7 | 14% |
+| Binary Search | 8 | 16% |
+| Hash Table | 8 | 16% |
 | String | 7 | 14% |
+| Sorting | 6 | 12% |
 | Dynamic Programming | 5 | 10% |
-| Sorting | 5 | 10% |
 | Linked List | 4 | 8% |
 | Recursion | 4 | 8% |
 
@@ -49,11 +49,11 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 26 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 7 |
+| [Binary Search](Topics/binary-search/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -61,18 +61,18 @@
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 2 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 4 |
-| [Math](Topics/math/) | 19 |
+| [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
@@ -83,7 +83,7 @@
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 5 |
+| [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
