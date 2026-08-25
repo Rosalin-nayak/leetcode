@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-14T06:04:33.780Z",
+  "updatedAt": "2026-08-25T14:06:18.487Z",
   "problems": [
     {
       "frontendId": "21",
@@ -63,6 +63,26 @@
           "path": "0141-linked-list-cycle/0141-linked-list-cycle.java",
           "sha": "a55ccfd6176eba70df28c468a51491fedd496d1f",
           "lastSyncedAt": "2026-08-12T14:59:57.694Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "237",
+      "title": "Delete Node in a Linked List",
+      "slug": "delete-node-in-a-linked-list",
+      "problemName": "0237-delete-node-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "folderPath": "0237-delete-node-in-a-linked-list/",
+      "readmePath": "0237-delete-node-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0237-delete-node-in-a-linked-list.java",
+          "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.java",
+          "sha": "4f32f4c656146d0f790c40251fcd91c11bdb9713",
+          "lastSyncedAt": "2026-08-25T14:06:18.487Z"
         }
       ]
     },
