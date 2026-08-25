@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 40 | 12 | 0 |
+| 53 | 41 | 12 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 9 days | 23 |
+| 6 days | 9 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-27 | 1 |
 | 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
@@ -29,19 +28,20 @@
 | 2026-08-22 | 2 |
 | 2026-08-23 | 1 |
 | 2026-08-24 | 2 |
+| 2026-08-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 52% |
-| Math | 19 | 37% |
+| Array | 28 | 53% |
+| Math | 19 | 36% |
 | Two Pointers | 12 | 23% |
 | Binary Search | 9 | 17% |
-| Hash Table | 8 | 15% |
+| Hash Table | 9 | 17% |
 | String | 7 | 13% |
-| Sorting | 6 | 12% |
-| Dynamic Programming | 5 | 10% |
+| Sorting | 6 | 11% |
+| Dynamic Programming | 5 | 9% |
 | Bit Manipulation | 4 | 8% |
 | Linked List | 4 | 8% |
 
@@ -49,7 +49,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 30 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -67,7 +67,7 @@
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
