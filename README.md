@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 53 | 41 | 12 | 0 |
+| 54 | 41 | 13 | 0 |
 
 ## Activity
 
@@ -28,22 +28,22 @@
 | 2026-08-22 | 2 |
 | 2026-08-23 | 1 |
 | 2026-08-24 | 2 |
-| 2026-08-25 | 1 |
+| 2026-08-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 53% |
-| Math | 19 | 36% |
-| Two Pointers | 12 | 23% |
+| Array | 28 | 52% |
+| Math | 19 | 35% |
+| Two Pointers | 12 | 22% |
 | Binary Search | 9 | 17% |
 | Hash Table | 9 | 17% |
 | String | 7 | 13% |
 | Sorting | 6 | 11% |
 | Dynamic Programming | 5 | 9% |
-| Bit Manipulation | 4 | 8% |
-| Linked List | 4 | 8% |
+| Linked List | 5 | 9% |
+| Bit Manipulation | 4 | 7% |
 
 ## Topics
 
@@ -71,7 +71,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
