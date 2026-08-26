@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 41 | 13 | 0 |
+| 55 | 41 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 9 days | 24 |
+| 7 days | 9 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-09 | 1 |
 | 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
@@ -29,20 +28,21 @@
 | 2026-08-23 | 1 |
 | 2026-08-24 | 2 |
 | 2026-08-25 | 2 |
+| 2026-08-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 52% |
+| Array | 28 | 51% |
 | Math | 19 | 35% |
-| Two Pointers | 12 | 22% |
-| Binary Search | 9 | 17% |
-| Hash Table | 9 | 17% |
+| Two Pointers | 13 | 24% |
+| Binary Search | 9 | 16% |
+| Hash Table | 9 | 16% |
 | String | 7 | 13% |
+| Linked List | 6 | 11% |
 | Sorting | 6 | 11% |
 | Dynamic Programming | 5 | 9% |
-| Linked List | 5 | 9% |
 | Bit Manipulation | 4 | 7% |
 
 ## Topics
@@ -71,7 +71,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 5 |
+| [Linked List](Topics/linked-list/) | 6 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
@@ -90,7 +90,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 12 |
+| [Two Pointers](Topics/two-pointers/) | 13 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
