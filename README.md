@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 41 | 14 | 0 |
+| 56 | 42 | 14 | 0 |
 
 ## Activity
 
@@ -28,19 +28,19 @@
 | 2026-08-23 | 1 |
 | 2026-08-24 | 2 |
 | 2026-08-25 | 2 |
-| 2026-08-26 | 1 |
+| 2026-08-26 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 51% |
-| Math | 19 | 35% |
-| Two Pointers | 13 | 24% |
+| Array | 28 | 50% |
+| Math | 19 | 34% |
+| Two Pointers | 14 | 25% |
+| Hash Table | 10 | 18% |
 | Binary Search | 9 | 16% |
-| Hash Table | 9 | 16% |
+| Linked List | 7 | 13% |
 | String | 7 | 13% |
-| Linked List | 6 | 11% |
 | Sorting | 6 | 11% |
 | Dynamic Programming | 5 | 9% |
 | Bit Manipulation | 4 | 7% |
@@ -67,11 +67,11 @@
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 6 |
+| [Linked List](Topics/linked-list/) | 7 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
@@ -90,7 +90,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tree](Topics/tree/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
