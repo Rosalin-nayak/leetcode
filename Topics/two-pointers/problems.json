@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-24T14:11:21.457Z",
+  "updatedAt": "2026-08-26T02:16:38.674Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0019-remove-nth-node-from-end-of-list.java",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
+          "sha": "2a2ae7b6cb95d5a20027b85dd27755fa88d2512d",
+          "lastSyncedAt": "2026-08-26T02:16:38.674Z"
+        }
+      ]
+    },
     {
       "frontendId": "26",
       "title": "Remove Duplicates from Sorted Array",
