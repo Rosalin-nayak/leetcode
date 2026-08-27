@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 44 | 15 | 0 |
+| 60 | 44 | 15 | 1 |
 
 ## Activity
 
@@ -28,7 +28,7 @@
 | 2026-08-24 | 2 |
 | 2026-08-25 | 2 |
 | 2026-08-26 | 2 |
-| 2026-08-27 | 3 |
+| 2026-08-27 | 4 |
 
 ## Top Tags
 
@@ -37,8 +37,8 @@
 | Array | 28 | 47% |
 | Math | 19 | 32% |
 | Two Pointers | 15 | 25% |
+| Linked List | 11 | 18% |
 | Hash Table | 10 | 17% |
-| Linked List | 10 | 17% |
 | Binary Search | 9 | 15% |
 | String | 7 | 12% |
 | Sorting | 6 | 10% |
@@ -61,7 +61,7 @@
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
@@ -69,12 +69,13 @@
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 11 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
@@ -89,6 +90,7 @@
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 15 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
