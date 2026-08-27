@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-27T02:39:41.975Z",
+  "updatedAt": "2026-08-27T15:12:54.467Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,6 +43,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "315999454a0baf88a21cede0ff5dd48606dc4c6c",
           "lastSyncedAt": "2026-08-12T14:59:46.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0023-merge-k-sorted-lists.java",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
+          "sha": "ec4485987a3da2209295342ded61efd9fe3d8a7b",
+          "lastSyncedAt": "2026-08-27T15:12:54.467Z"
         }
       ]
     },
