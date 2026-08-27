@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 42 | 14 | 0 |
+| 57 | 43 | 14 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 9 days | 25 |
+| 8 days | 9 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-10 | 1 |
 | 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
 | 2026-08-15 | 9 |
@@ -29,21 +28,22 @@
 | 2026-08-24 | 2 |
 | 2026-08-25 | 2 |
 | 2026-08-26 | 2 |
+| 2026-08-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 50% |
-| Math | 19 | 34% |
+| Array | 28 | 49% |
+| Math | 19 | 33% |
 | Two Pointers | 14 | 25% |
 | Hash Table | 10 | 18% |
 | Binary Search | 9 | 16% |
-| Linked List | 7 | 13% |
-| String | 7 | 13% |
+| Linked List | 8 | 14% |
+| String | 7 | 12% |
 | Sorting | 6 | 11% |
 | Dynamic Programming | 5 | 9% |
-| Bit Manipulation | 4 | 7% |
+| Recursion | 5 | 9% |
 
 ## Topics
 
@@ -71,7 +71,7 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
@@ -80,7 +80,7 @@
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Recursion](Topics/recursion/) | 4 |
+| [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
