@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -256,6 +257,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -286,6 +288,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -295,4 +298,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
