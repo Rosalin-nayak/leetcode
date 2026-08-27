@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-08-27T02:10:24.855Z",
+  "updatedAt": "2026-08-27T02:39:41.975Z",
   "problems": [
     {
       "frontendId": "19",
@@ -43,6 +43,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "315999454a0baf88a21cede0ff5dd48606dc4c6c",
           "lastSyncedAt": "2026-08-12T14:59:46.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "82",
+      "title": "Remove Duplicates from Sorted List II",
+      "slug": "remove-duplicates-from-sorted-list-ii",
+      "problemName": "0082-remove-duplicates-from-sorted-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+      "folderPath": "0082-remove-duplicates-from-sorted-list-ii/",
+      "readmePath": "0082-remove-duplicates-from-sorted-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0082-remove-duplicates-from-sorted-list-ii.java",
+          "path": "0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.java",
+          "sha": "fe40edb954f5a7f22c1141a67427c03b617e5a63",
+          "lastSyncedAt": "2026-08-27T02:39:41.975Z"
         }
       ]
     },
