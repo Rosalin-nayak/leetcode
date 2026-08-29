@@ -178,6 +178,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -200,6 +201,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
@@ -224,6 +226,7 @@
 | [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1095-find-in-mountain-array) |
