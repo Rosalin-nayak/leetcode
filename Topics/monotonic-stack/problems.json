@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "monotonic-stack",
+    "name": "Monotonic Stack"
+  },
+  "updatedAt": "2026-08-30T12:43:14.148Z",
+  "problems": [
+    {
+      "frontendId": "1944",
+      "title": "Number of Visible People in a Queue",
+      "slug": "number-of-visible-people-in-a-queue",
+      "problemName": "1944-number-of-visible-people-in-a-queue",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+      "folderPath": "1944-number-of-visible-people-in-a-queue/",
+      "readmePath": "1944-number-of-visible-people-in-a-queue/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1944-number-of-visible-people-in-a-queue.java",
+          "path": "1944-number-of-visible-people-in-a-queue/1944-number-of-visible-people-in-a-queue.java",
+          "sha": "4e90f7989fe15534c567c9b3d3b0aefe9284233f",
+          "lastSyncedAt": "2026-08-30T12:43:14.148Z"
+        }
+      ]
+    }
+  ]
+}
