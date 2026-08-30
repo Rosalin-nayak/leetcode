@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 44 | 15 | 1 |
+| 61 | 44 | 15 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 9 days | 26 |
+| 1 days | 9 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-13 | 2 |
 | 2026-08-14 | 4 |
 | 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
@@ -29,18 +28,19 @@
 | 2026-08-25 | 2 |
 | 2026-08-26 | 2 |
 | 2026-08-27 | 4 |
+| 2026-08-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 47% |
-| Math | 19 | 32% |
+| Array | 29 | 48% |
+| Math | 19 | 31% |
 | Two Pointers | 15 | 25% |
 | Linked List | 11 | 18% |
-| Hash Table | 10 | 17% |
+| Hash Table | 10 | 16% |
 | Binary Search | 9 | 15% |
-| String | 7 | 12% |
+| String | 7 | 11% |
 | Sorting | 6 | 10% |
 | Dynamic Programming | 5 | 8% |
 | Recursion | 5 | 8% |
@@ -49,7 +49,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 30 |
+| [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 3 |
@@ -76,6 +76,7 @@
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
@@ -86,7 +87,7 @@
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
