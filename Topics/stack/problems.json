@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-08-30T12:43:14.148Z",
+  "updatedAt": "2026-08-31T13:04:33.884Z",
   "problems": [
     {
       "frontendId": "20",
@@ -43,6 +43,26 @@
           "path": "0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.java",
           "sha": "31d1587e15b41cf3116b5590d1aa09fd30665ca5",
           "lastSyncedAt": "2026-08-12T15:02:51.475Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "232",
+      "title": "Implement Queue using Stacks",
+      "slug": "implement-queue-using-stacks",
+      "problemName": "0232-implement-queue-using-stacks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "folderPath": "0232-implement-queue-using-stacks/",
+      "readmePath": "0232-implement-queue-using-stacks/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0232-implement-queue-using-stacks.java",
+          "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
+          "sha": "163526ff3c2aac986ab29241644f8e7cb01d0249",
+          "lastSyncedAt": "2026-08-31T13:04:33.884Z"
         }
       ]
     },
