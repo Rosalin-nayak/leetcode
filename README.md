@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 61 | 44 | 15 | 2 |
+| 62 | 45 | 15 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 27 |
+| 2 days | 9 days | 28 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-14 | 4 |
 | 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
 | 2026-08-17 | 2 |
@@ -29,14 +28,15 @@
 | 2026-08-26 | 2 |
 | 2026-08-27 | 4 |
 | 2026-08-30 | 1 |
+| 2026-08-31 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 48% |
+| Array | 29 | 47% |
 | Math | 19 | 31% |
-| Two Pointers | 15 | 25% |
+| Two Pointers | 15 | 24% |
 | Linked List | 11 | 18% |
 | Hash Table | 10 | 16% |
 | Binary Search | 9 | 15% |
@@ -61,6 +61,7 @@
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
@@ -81,13 +82,14 @@
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
+| [Queue](Topics/queue/) | 1 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 7 |
-| [Stack](Topics/stack/) | 3 |
+| [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
