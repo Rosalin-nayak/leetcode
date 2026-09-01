@@ -109,6 +109,7 @@
 | [0061-rotate-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0206-reverse-linked-list) |
@@ -124,6 +125,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -136,6 +138,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rosalin-nayak/leetcode/tree/master/0217-contains-duplicate) |
@@ -165,6 +168,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
