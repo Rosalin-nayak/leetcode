@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 63 | 46 | 15 | 2 |
+| 64 | 46 | 16 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 28 |
+| 3 days | 9 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-15 | 9 |
 | 2026-08-16 | 2 |
 | 2026-08-17 | 2 |
 | 2026-08-18 | 4 |
@@ -29,19 +28,20 @@
 | 2026-08-27 | 4 |
 | 2026-08-30 | 1 |
 | 2026-08-31 | 2 |
+| 2026-09-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 46% |
+| Array | 29 | 45% |
 | Math | 19 | 30% |
-| Two Pointers | 15 | 24% |
-| Linked List | 11 | 17% |
-| Hash Table | 10 | 16% |
+| Two Pointers | 16 | 25% |
+| Linked List | 12 | 19% |
+| Hash Table | 11 | 17% |
 | Binary Search | 9 | 14% |
 | String | 7 | 11% |
-| Sorting | 6 | 10% |
+| Sorting | 6 | 9% |
 | Dynamic Programming | 5 | 8% |
 | Recursion | 5 | 8% |
 
@@ -65,14 +65,14 @@
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 1 |
-| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 3 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 10 |
+| [Hash Table](Topics/hash-table/) | 11 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 11 |
+| [Linked List](Topics/linked-list/) | 12 |
 | [Math](Topics/math/) | 20 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
@@ -95,7 +95,7 @@
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 3 |
-| [Two Pointers](Topics/two-pointers/) | 15 |
+| [Two Pointers](Topics/two-pointers/) | 16 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
