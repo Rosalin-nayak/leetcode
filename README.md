@@ -150,6 +150,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Rosalin-nayak/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0263-ugly-number) |
