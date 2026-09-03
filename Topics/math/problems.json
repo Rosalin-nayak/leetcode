@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-02T17:48:54.618Z",
+  "updatedAt": "2026-09-03T10:54:19.318Z",
   "problems": [
+    {
+      "frontendId": "29",
+      "title": "Divide Two Integers",
+      "slug": "divide-two-integers",
+      "problemName": "0029-divide-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/divide-two-integers/",
+      "folderPath": "0029-divide-two-integers/",
+      "readmePath": "0029-divide-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0029-divide-two-integers.java",
+          "path": "0029-divide-two-integers/0029-divide-two-integers.java",
+          "sha": "2c8f073661ac25b50e74ee618f02bdadbf4045f7",
+          "lastSyncedAt": "2026-09-03T10:54:19.318Z"
+        }
+      ]
+    },
     {
       "frontendId": "48",
       "title": "Rotate Image",
