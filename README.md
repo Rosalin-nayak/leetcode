@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 66 | 46 | 18 | 2 |
+| 68 | 47 | 19 | 2 |
 
 ## Activity
 
@@ -28,32 +28,32 @@
 | 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
-| 2026-09-03 | 1 |
+| 2026-09-03 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 44% |
-| Math | 20 | 30% |
+| Array | 30 | 44% |
+| Math | 22 | 32% |
 | Two Pointers | 16 | 24% |
 | Linked List | 12 | 18% |
-| Hash Table | 11 | 17% |
-| Binary Search | 9 | 14% |
-| String | 7 | 11% |
+| Hash Table | 11 | 16% |
+| Binary Search | 9 | 13% |
+| String | 7 | 10% |
 | Sorting | 6 | 9% |
-| Dynamic Programming | 5 | 8% |
-| Recursion | 5 | 8% |
+| Bit Manipulation | 5 | 7% |
+| Dynamic Programming | 5 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 31 |
+| [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Tree](Topics/binary-tree/) | 4 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -73,7 +73,7 @@
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 12 |
-| [Math](Topics/math/) | 21 |
+| [Math](Topics/math/) | 23 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
