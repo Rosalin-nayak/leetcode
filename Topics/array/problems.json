@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-30T12:43:14.148Z",
+  "updatedAt": "2026-09-03T14:08:49.017Z",
   "problems": [
     {
       "frontendId": "26",
@@ -603,6 +603,26 @@
           "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.java",
           "sha": "197787a6d1209fcd31d0179a708cf9bd4997a32f",
           "lastSyncedAt": "2026-08-25T05:52:17.948Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3875-construct-uniform-parity-array-i.java",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
+          "sha": "b4b74b86e577a01c125efe501aebef214962e400",
+          "lastSyncedAt": "2026-09-03T14:08:49.017Z"
         }
       ]
     },
