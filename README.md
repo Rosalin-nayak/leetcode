@@ -5,18 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 46 | 16 | 2 |
+| 66 | 46 | 18 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 9 days | 29 |
+| 5 days | 9 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-16 | 2 |
-| 2026-08-17 | 2 |
 | 2026-08-18 | 4 |
 | 2026-08-20 | 2 |
 | 2026-08-21 | 2 |
@@ -29,15 +27,17 @@
 | 2026-08-30 | 1 |
 | 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
+| 2026-09-02 | 1 |
+| 2026-09-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 45% |
-| Math | 19 | 30% |
-| Two Pointers | 16 | 25% |
-| Linked List | 12 | 19% |
+| Array | 29 | 44% |
+| Math | 20 | 30% |
+| Two Pointers | 16 | 24% |
+| Linked List | 12 | 18% |
 | Hash Table | 11 | 17% |
 | Binary Search | 9 | 14% |
 | String | 7 | 11% |
@@ -52,12 +52,12 @@
 | [Array](Topics/array/) | 31 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
-| [Binary Tree](Topics/binary-tree/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -73,7 +73,7 @@
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 12 |
-| [Math](Topics/math/) | 20 |
+| [Math](Topics/math/) | 21 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
@@ -94,7 +94,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 3 |
+| [Tree](Topics/tree/) | 4 |
 | [Two Pointers](Topics/two-pointers/) | 16 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
