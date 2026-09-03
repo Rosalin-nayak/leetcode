@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-03T10:54:19.318Z",
+  "updatedAt": "2026-09-03T14:08:49.017Z",
   "problems": [
     {
       "frontendId": "29",
@@ -443,6 +443,26 @@
           "path": "3622-check-divisibility-by-digit-sum-and-product/3622-check-divisibility-by-digit-sum-and-product.java",
           "sha": "af003f8bdd54fcb2e89aefccdae2454a19637f7d",
           "lastSyncedAt": "2026-08-22T03:14:15.586Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "3875-construct-uniform-parity-array-i/",
+      "readmePath": "3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3875-construct-uniform-parity-array-i.java",
+          "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
+          "sha": "b4b74b86e577a01c125efe501aebef214962e400",
+          "lastSyncedAt": "2026-09-03T14:08:49.017Z"
         }
       ]
     }
