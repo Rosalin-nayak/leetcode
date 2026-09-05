@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 72 | 50 | 20 | 2 |
+| 73 | 50 | 21 | 2 |
 
 ## Activity
 
@@ -28,20 +28,20 @@
 | 2026-09-02 | 1 |
 | 2026-09-03 | 3 |
 | 2026-09-04 | 2 |
-| 2026-09-05 | 2 |
+| 2026-09-05 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 42% |
-| Math | 22 | 31% |
+| Array | 30 | 41% |
+| Math | 22 | 30% |
 | Two Pointers | 16 | 22% |
-| Linked List | 12 | 17% |
+| Linked List | 12 | 16% |
 | Hash Table | 11 | 15% |
-| Binary Search | 9 | 13% |
-| Binary Tree | 8 | 11% |
-| Tree | 8 | 11% |
+| Binary Search | 9 | 12% |
+| Binary Tree | 9 | 12% |
+| Tree | 9 | 12% |
 | Stack | 7 | 10% |
 | String | 7 | 10% |
 
@@ -52,8 +52,8 @@
 | [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 8 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 3 |
+| [Binary Tree](Topics/binary-tree/) | 9 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -61,7 +61,7 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 5 |
+| [Depth-First Search](Topics/depth-first-search/) | 6 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
@@ -95,7 +95,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 8 |
+| [Tree](Topics/tree/) | 9 |
 | [Two Pointers](Topics/two-pointers/) | 16 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
