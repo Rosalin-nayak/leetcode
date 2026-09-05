@@ -348,6 +348,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -364,4 +365,9 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
