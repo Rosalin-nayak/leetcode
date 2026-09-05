@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-05T04:52:39.253Z",
+  "updatedAt": "2026-09-05T05:16:44.889Z",
   "problems": [
     {
       "frontendId": "94",
@@ -143,6 +143,26 @@
           "path": "0701-insert-into-a-binary-search-tree/0701-insert-into-a-binary-search-tree.java",
           "sha": "3dd38f67ccc13614e9b9d4b443348f0380453bd5",
           "lastSyncedAt": "2026-09-05T04:52:39.253Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "938",
+      "title": "Range Sum of BST",
+      "slug": "range-sum-of-bst",
+      "problemName": "0938-range-sum-of-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-of-bst/",
+      "folderPath": "0938-range-sum-of-bst/",
+      "readmePath": "0938-range-sum-of-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0938-range-sum-of-bst.java",
+          "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
+          "sha": "08ec84a8953726218608510322cb2d7c7928588b",
+          "lastSyncedAt": "2026-09-05T05:16:44.889Z"
         }
       ]
     }
