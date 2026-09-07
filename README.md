@@ -357,6 +357,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +392,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
