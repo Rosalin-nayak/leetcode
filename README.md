@@ -353,6 +353,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -361,12 +362,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,6 +380,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -385,5 +389,6 @@
 | [0450-delete-node-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Rosalin-nayak/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
