@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-07T02:28:33.682Z",
+  "updatedAt": "2026-09-07T10:16:26.190Z",
   "problems": [
     {
       "frontendId": "94",
@@ -163,6 +163,26 @@
           "path": "0450-delete-node-in-a-bst/0450-delete-node-in-a-bst.java",
           "sha": "39de36b83161e0735fd98122b8d05dfc39982d66",
           "lastSyncedAt": "2026-09-07T02:20:17.650Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "530",
+      "title": "Minimum Absolute Difference in BST",
+      "slug": "minimum-absolute-difference-in-bst",
+      "problemName": "0530-minimum-absolute-difference-in-bst",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+      "folderPath": "0530-minimum-absolute-difference-in-bst/",
+      "readmePath": "0530-minimum-absolute-difference-in-bst/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0530-minimum-absolute-difference-in-bst.java",
+          "path": "0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.java",
+          "sha": "6150fdfdb6f835937982f3b3f1d57f95748e7b38",
+          "lastSyncedAt": "2026-09-07T10:16:26.190Z"
         }
       ]
     },
