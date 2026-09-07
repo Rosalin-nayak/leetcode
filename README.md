@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 75 | 50 | 23 | 2 |
+| 76 | 51 | 23 | 2 |
 
 ## Activity
 
@@ -28,21 +28,21 @@
 | 2026-09-04 | 2 |
 | 2026-09-05 | 3 |
 | 2026-09-06 | 1 |
-| 2026-09-07 | 1 |
+| 2026-09-07 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 40% |
+| Array | 30 | 39% |
 | Math | 22 | 29% |
 | Two Pointers | 16 | 21% |
+| Binary Tree | 12 | 16% |
 | Linked List | 12 | 16% |
-| Binary Tree | 11 | 15% |
-| Hash Table | 11 | 15% |
-| Tree | 11 | 15% |
+| Tree | 12 | 16% |
+| Hash Table | 11 | 14% |
 | Binary Search | 9 | 12% |
-| Depth-First Search | 7 | 9% |
+| Depth-First Search | 8 | 11% |
 | Stack | 7 | 9% |
 
 ## Topics
@@ -52,16 +52,16 @@
 | [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 5 |
-| [Binary Tree](Topics/binary-tree/) | 11 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 6 |
+| [Binary Tree](Topics/binary-tree/) | 12 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 3 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Depth-First Search](Topics/depth-first-search/) | 7 |
+| [Depth-First Search](Topics/depth-first-search/) | 8 |
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 5 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
@@ -95,7 +95,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 11 |
+| [Tree](Topics/tree/) | 12 |
 | [Two Pointers](Topics/two-pointers/) | 16 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
