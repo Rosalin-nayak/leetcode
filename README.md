@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 74 | 50 | 22 | 2 |
+| 75 | 50 | 23 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 9 days | 34 |
+| 9 days | 9 days | 35 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-22 | 2 |
 | 2026-08-23 | 1 |
 | 2026-08-24 | 2 |
 | 2026-08-25 | 2 |
@@ -29,18 +28,19 @@
 | 2026-09-04 | 2 |
 | 2026-09-05 | 3 |
 | 2026-09-06 | 1 |
+| 2026-09-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 30 | 41% |
-| Math | 22 | 30% |
-| Two Pointers | 16 | 22% |
+| Array | 30 | 40% |
+| Math | 22 | 29% |
+| Two Pointers | 16 | 21% |
 | Linked List | 12 | 16% |
+| Binary Tree | 11 | 15% |
 | Hash Table | 11 | 15% |
-| Binary Tree | 10 | 14% |
-| Tree | 10 | 14% |
+| Tree | 11 | 15% |
 | Binary Search | 9 | 12% |
 | Depth-First Search | 7 | 9% |
 | Stack | 7 | 9% |
@@ -52,8 +52,8 @@
 | [Array](Topics/array/) | 32 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 10 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 5 |
+| [Binary Tree](Topics/binary-tree/) | 11 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -95,7 +95,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 10 |
+| [Tree](Topics/tree/) | 11 |
 | [Two Pointers](Topics/two-pointers/) | 16 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
