@@ -352,6 +352,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -365,6 +366,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -388,6 +390,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rosalin-nayak/leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rosalin-nayak/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
