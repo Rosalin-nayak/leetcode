@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-08T06:14:37.386Z",
+  "updatedAt": "2026-09-09T02:59:29.432Z",
   "problems": [
     {
       "frontendId": "94",
@@ -123,6 +123,26 @@
           "path": "0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.java",
           "sha": "f1007631316d89cc60b3719bf1aabc168b2a64dc",
           "lastSyncedAt": "2026-09-08T06:14:37.386Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "problemName": "0110-balanced-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/balanced-binary-tree/",
+      "folderPath": "0110-balanced-binary-tree/",
+      "readmePath": "0110-balanced-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0110-balanced-binary-tree.java",
+          "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.java",
+          "sha": "694970033af5ae3e7abc619f7a23af141fa8fbaa",
+          "lastSyncedAt": "2026-09-09T02:59:29.432Z"
         }
       ]
     },
