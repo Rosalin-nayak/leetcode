@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-09-08T06:14:37.386Z",
+  "updatedAt": "2026-09-10T10:04:05.054Z",
   "problems": [
     {
       "frontendId": "23",
@@ -123,6 +123,26 @@
           "path": "0912-sort-an-array/0912-sort-an-array.java",
           "sha": "5363daa37fec22561589f9d8a29bf6a4585319ca",
           "lastSyncedAt": "2026-08-23T15:08:52.739Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "problemName": "0973-k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/k-closest-points-to-origin/",
+      "folderPath": "0973-k-closest-points-to-origin/",
+      "readmePath": "0973-k-closest-points-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0973-k-closest-points-to-origin.java",
+          "path": "0973-k-closest-points-to-origin/0973-k-closest-points-to-origin.java",
+          "sha": "5c90998f1b78c531d34c98ca4c47c1dc8539db5d",
+          "lastSyncedAt": "2026-09-10T10:04:05.054Z"
         }
       ]
     }
