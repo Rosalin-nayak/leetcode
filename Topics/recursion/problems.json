@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-09-11T13:30:09.948Z",
+  "updatedAt": "2026-09-11T14:08:01.487Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,6 +23,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.java",
           "sha": "315999454a0baf88a21cede0ff5dd48606dc4c6c",
           "lastSyncedAt": "2026-08-12T14:59:46.222Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "0024-swap-nodes-in-pairs/",
+      "readmePath": "0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0024-swap-nodes-in-pairs.java",
+          "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.java",
+          "sha": "075ff756dfb200a6450b8fc91b3ce9d0fad68309",
+          "lastSyncedAt": "2026-09-11T14:08:01.487Z"
         }
       ]
     },
