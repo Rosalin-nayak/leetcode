@@ -4,7 +4,7 @@
     "slug": "enumeration",
     "name": "Enumeration"
   },
-  "updatedAt": "2026-08-12T15:01:51.735Z",
+  "updatedAt": "2026-09-11T13:30:09.948Z",
   "problems": [
     {
       "frontendId": "204",
@@ -23,6 +23,26 @@
           "path": "0204-count-primes/0204-count-primes.java",
           "sha": "8e5e13e9273b2719aa2cb384730bb60309b8425b",
           "lastSyncedAt": "2026-08-12T15:01:51.735Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3483",
+      "title": "Unique 3-Digit Even Numbers",
+      "slug": "unique-3-digit-even-numbers",
+      "problemName": "3483-unique-3-digit-even-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+      "folderPath": "3483-unique-3-digit-even-numbers/",
+      "readmePath": "3483-unique-3-digit-even-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3483-unique-3-digit-even-numbers.java",
+          "path": "3483-unique-3-digit-even-numbers/3483-unique-3-digit-even-numbers.java",
+          "sha": "717f2fddfcc45c81a845cc95ed090d4574ae1a94",
+          "lastSyncedAt": "2026-09-11T13:30:09.948Z"
         }
       ]
     }
