@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-11T14:08:01.487Z",
+  "updatedAt": "2026-09-11T14:14:25.412Z",
   "problems": [
     {
       "frontendId": "19",
@@ -82,7 +82,7 @@
           "filename": "0024-swap-nodes-in-pairs.java",
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.java",
           "sha": "075ff756dfb200a6450b8fc91b3ce9d0fad68309",
-          "lastSyncedAt": "2026-09-11T14:08:01.487Z"
+          "lastSyncedAt": "2026-09-11T14:14:25.412Z"
         }
       ]
     },
