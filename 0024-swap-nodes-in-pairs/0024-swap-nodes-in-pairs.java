@@ -34,7 +34,7 @@ class Solution {
         head=t2;
         while(t2!=null){
             d2=t2.next;
-            if (t1!=null) d1=t1.next;
+            d1=t1.next;
             t2.next=t1;
             if(d2!=null) t1.next=d2;
             t1=d1;
