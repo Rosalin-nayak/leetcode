@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 82 | 53 | 27 | 2 |
+| 84 | 54 | 28 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 12 days | 12 days | 38 |
+| 13 days | 13 days | 39 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-26 | 2 |
 | 2026-08-27 | 4 |
 | 2026-08-30 | 1 |
 | 2026-08-31 | 2 |
@@ -29,27 +28,28 @@
 | 2026-09-08 | 3 |
 | 2026-09-09 | 1 |
 | 2026-09-10 | 1 |
+| 2026-09-11 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 31 | 38% |
-| Math | 23 | 28% |
-| Binary Tree | 16 | 20% |
-| Tree | 16 | 20% |
-| Two Pointers | 16 | 20% |
-| Linked List | 13 | 16% |
+| Array | 32 | 38% |
+| Math | 23 | 27% |
+| Binary Tree | 16 | 19% |
+| Tree | 16 | 19% |
+| Two Pointers | 16 | 19% |
+| Linked List | 14 | 17% |
+| Hash Table | 12 | 14% |
 | Depth-First Search | 11 | 13% |
-| Hash Table | 11 | 13% |
 | Binary Search | 9 | 11% |
-| Binary Search Tree | 7 | 9% |
+| Binary Search Tree | 7 | 8% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 33 |
+| [Array](Topics/array/) | 34 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 9 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 8 |
@@ -65,16 +65,16 @@
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
-| [Enumeration](Topics/enumeration/) | 1 |
+| [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 11 |
+| [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 14 |
+| [Linked List](Topics/linked-list/) | 15 |
 | [Math](Topics/math/) | 24 |
 | [Matrix](Topics/matrix/) | 3 |
 | [Memoization](Topics/memoization/) | 2 |
@@ -86,7 +86,7 @@
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
 | [Queue](Topics/queue/) | 2 |
 | [Quickselect](Topics/quickselect/) | 2 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 7 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
