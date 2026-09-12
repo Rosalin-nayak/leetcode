@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-08-12T15:00:41.534Z",
+  "updatedAt": "2026-09-12T14:49:10.443Z",
   "problems": [
     {
       "frontendId": "3",
@@ -23,6 +23,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "e034bef86f6a8e4ea6c9accb3c45820a28a53bbd",
           "lastSyncedAt": "2026-08-12T15:00:41.534Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "0658-find-k-closest-elements/",
+      "readmePath": "0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0658-find-k-closest-elements.java",
+          "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
+          "sha": "aff6d833a20c3ae73d8e14a678225e31a0649e65",
+          "lastSyncedAt": "2026-09-12T14:49:10.443Z"
         }
       ]
     }
