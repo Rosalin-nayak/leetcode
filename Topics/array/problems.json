@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-11T13:30:09.948Z",
+  "updatedAt": "2026-09-12T14:49:10.443Z",
   "problems": [
     {
       "frontendId": "26",
@@ -403,6 +403,26 @@
           "path": "0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.java",
           "sha": "8b21faa9f405587e7296802ab45655f72a92298c",
           "lastSyncedAt": "2026-08-22T05:25:00.659Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "658",
+      "title": "Find K Closest Elements",
+      "slug": "find-k-closest-elements",
+      "problemName": "0658-find-k-closest-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+      "folderPath": "0658-find-k-closest-elements/",
+      "readmePath": "0658-find-k-closest-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0658-find-k-closest-elements.java",
+          "path": "0658-find-k-closest-elements/0658-find-k-closest-elements.java",
+          "sha": "aff6d833a20c3ae73d8e14a678225e31a0649e65",
+          "lastSyncedAt": "2026-09-12T14:49:10.443Z"
         }
       ]
     },
