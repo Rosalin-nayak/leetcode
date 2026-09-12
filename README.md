@@ -137,6 +137,7 @@
 | [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -250,6 +251,7 @@
 | [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -274,6 +276,7 @@
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -312,6 +315,7 @@
 | [0217-contains-duplicate](https://github.com/Rosalin-nayak/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -327,6 +331,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -433,4 +438,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0113-path-sum-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
