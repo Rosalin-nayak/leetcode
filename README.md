@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 84 | 54 | 28 | 2 |
+| 85 | 54 | 29 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 39 |
+| 14 days | 14 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-27 | 4 |
 | 2026-08-30 | 1 |
 | 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
@@ -29,29 +28,30 @@
 | 2026-09-09 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
+| 2026-09-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 32 | 38% |
+| Array | 33 | 39% |
 | Math | 23 | 27% |
+| Two Pointers | 17 | 20% |
 | Binary Tree | 16 | 19% |
 | Tree | 16 | 19% |
-| Two Pointers | 16 | 19% |
-| Linked List | 14 | 17% |
+| Linked List | 14 | 16% |
 | Hash Table | 12 | 14% |
 | Depth-First Search | 11 | 13% |
-| Binary Search | 9 | 11% |
-| Binary Search Tree | 7 | 8% |
+| Binary Search | 10 | 12% |
+| Sorting | 8 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 34 |
+| [Array](Topics/array/) | 35 |
 | [Backtracking](Topics/backtracking/) | 0 |
-| [Binary Search](Topics/binary-search/) | 9 |
+| [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 17 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 5 |
@@ -71,7 +71,7 @@
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 12 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 15 |
@@ -89,15 +89,15 @@
 | [Recursion](Topics/recursion/) | 7 |
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
+| [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 7 |
 | [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 17 |
-| [Two Pointers](Topics/two-pointers/) | 16 |
+| [Two Pointers](Topics/two-pointers/) | 17 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
