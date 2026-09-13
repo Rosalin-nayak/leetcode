@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 85 | 54 | 29 | 2 |
+| 86 | 54 | 30 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 40 |
+| 15 days | 15 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-30 | 1 |
 | 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
@@ -29,12 +28,13 @@
 | 2026-09-10 | 1 |
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
+| 2026-09-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 39% |
+| Array | 34 | 40% |
 | Math | 23 | 27% |
 | Two Pointers | 17 | 20% |
 | Binary Tree | 16 | 19% |
@@ -49,12 +49,12 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 8 |
 | [Binary Tree](Topics/binary-tree/) | 17 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 6 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
