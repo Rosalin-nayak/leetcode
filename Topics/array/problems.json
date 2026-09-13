@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-12T14:49:10.443Z",
+  "updatedAt": "2026-09-13T10:57:32.597Z",
   "problems": [
     {
       "frontendId": "26",
@@ -223,6 +223,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.java",
           "sha": "693d41dc600dde1121d3fb51aa286beed6b5a6a4",
           "lastSyncedAt": "2026-08-12T15:01:27.768Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "problemName": "0137-single-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+      "folderPath": "0137-single-number-ii/",
+      "readmePath": "0137-single-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0137-single-number-ii.java",
+          "path": "0137-single-number-ii/0137-single-number-ii.java",
+          "sha": "36517918016a7d05f793bc9608d91c989b6d60c5",
+          "lastSyncedAt": "2026-09-13T10:57:32.597Z"
         }
       ]
     },
