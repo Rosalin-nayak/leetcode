@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-03T10:54:19.318Z",
+  "updatedAt": "2026-09-13T10:57:32.597Z",
   "problems": [
     {
       "frontendId": "29",
@@ -23,6 +23,26 @@
           "path": "0029-divide-two-integers/0029-divide-two-integers.java",
           "sha": "2c8f073661ac25b50e74ee618f02bdadbf4045f7",
           "lastSyncedAt": "2026-09-03T10:54:19.318Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "problemName": "0137-single-number-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number-ii/",
+      "folderPath": "0137-single-number-ii/",
+      "readmePath": "0137-single-number-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0137-single-number-ii.java",
+          "path": "0137-single-number-ii/0137-single-number-ii.java",
+          "sha": "36517918016a7d05f793bc9608d91c989b6d60c5",
+          "lastSyncedAt": "2026-09-13T10:57:32.597Z"
         }
       ]
     },
