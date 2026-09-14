@@ -144,6 +144,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
@@ -240,6 +241,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Rosalin-nayak/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0136-single-number) |
@@ -308,6 +310,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rosalin-nayak/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
