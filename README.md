@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 86 | 54 | 30 | 2 |
+| 87 | 54 | 31 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 41 |
+| 16 days | 16 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-31 | 2 |
 | 2026-09-01 | 1 |
 | 2026-09-02 | 1 |
 | 2026-09-03 | 3 |
@@ -29,31 +28,32 @@
 | 2026-09-11 | 2 |
 | 2026-09-12 | 1 |
 | 2026-09-13 | 1 |
+| 2026-09-14 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 34 | 40% |
-| Math | 23 | 27% |
+| Array | 35 | 40% |
+| Math | 23 | 26% |
+| Binary Tree | 17 | 20% |
+| Tree | 17 | 20% |
 | Two Pointers | 17 | 20% |
-| Binary Tree | 16 | 19% |
-| Tree | 16 | 19% |
 | Linked List | 14 | 16% |
-| Hash Table | 12 | 14% |
+| Hash Table | 13 | 15% |
 | Depth-First Search | 11 | 13% |
-| Binary Search | 10 | 12% |
+| Binary Search | 10 | 11% |
 | Sorting | 8 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 36 |
+| [Array](Topics/array/) | 37 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 8 |
-| [Binary Tree](Topics/binary-tree/) | 17 |
+| [Binary Tree](Topics/binary-tree/) | 18 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 6 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -63,13 +63,13 @@
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 11 |
 | [Design](Topics/design/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 7 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 8 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Enumeration](Topics/enumeration/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 12 |
+| [Hash Table](Topics/hash-table/) | 13 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -96,7 +96,7 @@
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 17 |
+| [Tree](Topics/tree/) | 18 |
 | [Two Pointers](Topics/two-pointers/) | 17 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
