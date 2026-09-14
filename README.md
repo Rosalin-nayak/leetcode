@@ -115,6 +115,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -132,6 +133,7 @@
 | [0086-partition-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
@@ -305,6 +307,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rosalin-nayak/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -318,6 +321,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rosalin-nayak/leetcode/tree/master/0217-contains-duplicate) |
@@ -352,6 +356,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rosalin-nayak/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
