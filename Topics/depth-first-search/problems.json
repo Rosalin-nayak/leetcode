@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-09T02:59:29.432Z",
+  "updatedAt": "2026-09-15T06:59:43.178Z",
   "problems": [
     {
       "frontendId": "94",
@@ -123,6 +123,26 @@
           "path": "0230-kth-smallest-element-in-a-bst/0230-kth-smallest-element-in-a-bst.java",
           "sha": "33bff77ce3df7133a172c02701f32a50fe1475c0",
           "lastSyncedAt": "2026-09-05T06:12:22.888Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "404",
+      "title": "Sum of Left Leaves",
+      "slug": "sum-of-left-leaves",
+      "problemName": "0404-sum-of-left-leaves",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-left-leaves/",
+      "folderPath": "0404-sum-of-left-leaves/",
+      "readmePath": "0404-sum-of-left-leaves/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0404-sum-of-left-leaves.java",
+          "path": "0404-sum-of-left-leaves/0404-sum-of-left-leaves.java",
+          "sha": "03aeca68041e93a5f22fc9ffe15dd33f48d9a23a",
+          "lastSyncedAt": "2026-09-15T06:59:43.178Z"
         }
       ]
     },
