@@ -4,7 +4,7 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-15T06:59:43.178Z",
+  "updatedAt": "2026-09-16T08:04:28.844Z",
   "problems": [
     {
       "frontendId": "94",
@@ -163,6 +163,26 @@
           "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.java",
           "sha": "694970033af5ae3e7abc619f7a23af141fa8fbaa",
           "lastSyncedAt": "2026-09-09T02:59:29.432Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "129",
+      "title": "Sum Root to Leaf Numbers",
+      "slug": "sum-root-to-leaf-numbers",
+      "problemName": "0129-sum-root-to-leaf-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+      "folderPath": "0129-sum-root-to-leaf-numbers/",
+      "readmePath": "0129-sum-root-to-leaf-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0129-sum-root-to-leaf-numbers.java",
+          "path": "0129-sum-root-to-leaf-numbers/0129-sum-root-to-leaf-numbers.java",
+          "sha": "c3ed0d27c8c84ec24418299e9dac1381d66bad78",
+          "lastSyncedAt": "2026-09-16T08:04:28.844Z"
         }
       ]
     },
