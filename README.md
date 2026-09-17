@@ -152,6 +152,7 @@
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rosalin-nayak/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -325,6 +327,7 @@
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rosalin-nayak/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
