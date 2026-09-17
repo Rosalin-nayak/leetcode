@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 89 | 55 | 32 | 2 |
+| 90 | 56 | 32 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 18 days | 18 days | 44 |
+| 19 days | 19 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-03 | 3 |
 | 2026-09-04 | 2 |
 | 2026-09-05 | 3 |
 | 2026-09-06 | 1 |
@@ -29,6 +28,7 @@
 | 2026-09-14 | 1 |
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
+| 2026-09-17 | 1 |
 
 ## Top Tags
 
@@ -39,11 +39,11 @@
 | Binary Tree | 19 | 21% |
 | Tree | 19 | 21% |
 | Two Pointers | 17 | 19% |
+| Hash Table | 14 | 16% |
 | Linked List | 14 | 16% |
-| Depth-First Search | 13 | 15% |
-| Hash Table | 13 | 15% |
+| Depth-First Search | 13 | 14% |
 | Binary Search | 10 | 11% |
-| Sorting | 8 | 9% |
+| Sorting | 9 | 10% |
 
 ## Topics
 
@@ -69,7 +69,7 @@
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
 | [Geometry](Topics/geometry/) | 2 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 13 |
+| [Hash Table](Topics/hash-table/) | 14 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [K-D Tree](Topics/k-d-tree/) | 1 |
@@ -90,9 +90,9 @@
 | [Sieve Theory](Topics/sieve-theory/) | 1 |
 | [Simulation](Topics/simulation/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 9 |
+| [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
