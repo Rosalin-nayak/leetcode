@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-14T15:50:39.774Z",
+  "updatedAt": "2026-09-17T01:35:09.474Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,6 +163,26 @@
           "path": "0202-happy-number/0202-happy-number.java",
           "sha": "3f7aa7c9aba87032ecac49bf5a29010a5a68d82a",
           "lastSyncedAt": "2026-08-13T09:38:29.527Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "f7e947a2bb48313e20010ab97e7d7394c9582e84",
+          "lastSyncedAt": "2026-09-17T01:35:09.474Z"
         }
       ]
     },
