@@ -5,17 +5,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 90 | 56 | 32 | 2 |
+| 91 | 57 | 32 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 19 days | 19 days | 45 |
+| 20 days | 20 days | 46 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-04 | 2 |
 | 2026-09-05 | 3 |
 | 2026-09-06 | 1 |
 | 2026-09-07 | 3 |
@@ -29,18 +28,19 @@
 | 2026-09-15 | 1 |
 | 2026-09-16 | 1 |
 | 2026-09-17 | 1 |
+| 2026-09-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 39% |
-| Math | 23 | 26% |
+| Array | 35 | 38% |
+| Math | 23 | 25% |
 | Binary Tree | 19 | 21% |
 | Tree | 19 | 21% |
 | Two Pointers | 17 | 19% |
-| Hash Table | 14 | 16% |
-| Linked List | 14 | 16% |
+| Hash Table | 14 | 15% |
+| Linked List | 14 | 15% |
 | Depth-First Search | 13 | 14% |
 | Binary Search | 10 | 11% |
 | Sorting | 9 | 10% |
@@ -92,7 +92,7 @@
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 10 |
 | [Stack](Topics/stack/) | 7 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Ternary Search](Topics/ternary-search/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
