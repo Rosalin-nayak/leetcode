@@ -225,6 +225,7 @@
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
 | [3110-score-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
@@ -468,4 +469,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
