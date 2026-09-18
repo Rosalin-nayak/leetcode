@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-17T01:35:09.474Z",
+  "updatedAt": "2026-09-18T11:05:49.583Z",
   "problems": [
     {
       "frontendId": "3",
@@ -163,6 +163,26 @@
           "path": "0917-reverse-only-letters/0917-reverse-only-letters.java",
           "sha": "d1c0e8674c3c375c6b16b5d9db2516d203bdf432",
           "lastSyncedAt": "2026-08-12T15:00:51.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "3110-score-of-a-string/",
+      "readmePath": "3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3110-score-of-a-string.java",
+          "path": "3110-score-of-a-string/3110-score-of-a-string.java",
+          "sha": "61b2a1a53a41dd555db62289f09a832d624d322f",
+          "lastSyncedAt": "2026-09-18T11:05:49.583Z"
         }
       ]
     }
