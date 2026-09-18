@@ -225,6 +225,7 @@
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
+| [3110-score-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
