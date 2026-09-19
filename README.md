@@ -480,4 +480,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rosalin-nayak/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/Rosalin-nayak/leetcode/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
