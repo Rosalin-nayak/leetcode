@@ -173,6 +173,7 @@
 | [0507-perfect-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rosalin-nayak/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rosalin-nayak/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rosalin-nayak/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rosalin-nayak/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rosalin-nayak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/Rosalin-nayak/leetcode/tree/master/2235-add-two-integers) |
@@ -473,4 +474,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Rosalin-nayak/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
