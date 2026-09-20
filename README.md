@@ -151,6 +151,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Rosalin-nayak/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
