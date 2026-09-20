@@ -229,6 +229,7 @@
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1528-shuffle-string) |
 | [3110-score-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rosalin-nayak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
