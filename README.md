@@ -157,6 +157,7 @@
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rosalin-nayak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rosalin-nayak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -231,6 +232,7 @@
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
+| [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1528-shuffle-string) |
 | [3110-score-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -348,6 +350,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
