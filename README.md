@@ -239,6 +239,7 @@
 | [1108-defanging-an-ip-address](https://github.com/Rosalin-nayak/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Rosalin-nayak/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/Rosalin-nayak/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3110-score-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/3498-reverse-degree-of-a-string) |
