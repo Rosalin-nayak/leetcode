@@ -239,6 +239,7 @@
 | [0771-jewels-and-stones](https://github.com/Rosalin-nayak/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Rosalin-nayak/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1528-shuffle-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Rosalin-nayak/leetcode/tree/master/1678-goal-parser-interpretation) |
@@ -361,6 +362,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Rosalin-nayak/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -506,4 +508,8 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Rosalin-nayak/leetcode/tree/master/0183-customers-who-never-order) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
