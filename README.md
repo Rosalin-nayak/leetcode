@@ -158,6 +158,7 @@
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Rosalin-nayak/leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Rosalin-nayak/leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -234,6 +235,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rosalin-nayak/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rosalin-nayak/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Rosalin-nayak/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rosalin-nayak/leetcode/tree/master/0771-jewels-and-stones) |
@@ -362,6 +364,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rosalin-nayak/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Rosalin-nayak/leetcode/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rosalin-nayak/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
