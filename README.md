@@ -189,6 +189,7 @@
 | [2235-add-two-integers](https://github.com/Rosalin-nayak/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Rosalin-nayak/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rosalin-nayak/leetcode/tree/master/2469-convert-the-temperature) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rosalin-nayak/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rosalin-nayak/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Floyd's Cycle Finding Algorithm
@@ -309,6 +310,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rosalin-nayak/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rosalin-nayak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rosalin-nayak/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rosalin-nayak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
