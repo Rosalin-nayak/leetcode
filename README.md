@@ -303,6 +303,7 @@
 | [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rosalin-nayak/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rosalin-nayak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rosalin-nayak/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -346,6 +347,7 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Rosalin-nayak/leetcode/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rosalin-nayak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
