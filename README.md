@@ -142,6 +142,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/Rosalin-nayak/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Rosalin-nayak/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -221,6 +222,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Rosalin-nayak/leetcode/tree/master/0844-backspace-string-compare) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rosalin-nayak/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@
 | [0709-to-lower-case](https://github.com/Rosalin-nayak/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rosalin-nayak/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Rosalin-nayak/leetcode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Rosalin-nayak/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1370-increasing-decreasing-string](https://github.com/Rosalin-nayak/leetcode/tree/master/1370-increasing-decreasing-string) |
@@ -270,6 +273,7 @@
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Rosalin-nayak/leetcode/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rosalin-nayak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Rosalin-nayak/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rosalin-nayak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
