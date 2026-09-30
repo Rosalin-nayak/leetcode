@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rosalin-nayak/leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/Rosalin-nayak/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Rosalin-nayak/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Rosalin-nayak/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -355,6 +356,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rosalin-nayak/leetcode/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rosalin-nayak/leetcode/tree/master/0198-house-robber) |
@@ -550,4 +552,8 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rosalin-nayak/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
