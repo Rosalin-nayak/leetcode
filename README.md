@@ -143,6 +143,7 @@
 | [0283-move-zeroes](https://github.com/Rosalin-nayak/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Rosalin-nayak/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rosalin-nayak/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Rosalin-nayak/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -254,6 +255,7 @@
 | [0290-word-pattern](https://github.com/Rosalin-nayak/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Rosalin-nayak/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Rosalin-nayak/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Rosalin-nayak/leetcode/tree/master/0709-to-lower-case) |
@@ -370,6 +372,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rosalin-nayak/leetcode/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/Rosalin-nayak/leetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rosalin-nayak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
 |  |
