@@ -258,6 +258,7 @@
 | [0392-is-subsequence](https://github.com/Rosalin-nayak/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/Rosalin-nayak/leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Rosalin-nayak/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rosalin-nayak/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
