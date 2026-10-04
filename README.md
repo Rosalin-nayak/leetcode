@@ -226,6 +226,7 @@
 | [0143-reorder-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rosalin-nayak/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rosalin-nayak/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Rosalin-nayak/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Rosalin-nayak/leetcode/tree/master/0844-backspace-string-compare) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rosalin-nayak/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -260,6 +261,7 @@
 | [0412-fizz-buzz](https://github.com/Rosalin-nayak/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Rosalin-nayak/leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Rosalin-nayak/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Rosalin-nayak/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0796-rotate-string) |
@@ -377,6 +379,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Rosalin-nayak/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Rosalin-nayak/leetcode/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rosalin-nayak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
 |  |
@@ -579,9 +582,14 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rosalin-nayak/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Rosalin-nayak/leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rosalin-nayak/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rosalin-nayak/leetcode/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
