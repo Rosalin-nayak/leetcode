@@ -463,6 +463,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Rosalin-nayak/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rosalin-nayak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
@@ -592,4 +593,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Rosalin-nayak/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rosalin-nayak/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Rosalin-nayak/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
